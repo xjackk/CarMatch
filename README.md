@@ -34,6 +34,15 @@ Then boom... you're up to date!
 
 * http://developer.edmunds.com/api-documentation/vehicle/
 
+## API Key
+
+### Key
+
+* 6rqjnduejbshd5ddse7dr4e5
+
+### Secret
+
+* 69duHU45JM9STXJ89AX5qKBt 
 
 
 
