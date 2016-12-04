@@ -1,1066 +1,1066 @@
-makeId,name,niceName,mode:id,model:name,model:niceName,PI
-200347864,AM General,am-general,AM_General_Hummer,Hummer,hummer,4
-200002038,Acura,acura,Acura_CL,CL,cl,4
-200002038,Acura,acura,Acura_ILX,ILX,ilx,5
-200002038,Acura,acura,Acura_ILX_Hybrid,ILX Hybrid,ilx-hybrid,5
-200002038,Acura,acura,Acura_Integra,Integra,integra,4
-200002038,Acura,acura,Acura_Legend,Legend,legend,4
-200002038,Acura,acura,Acura_MDX,MDX,mdx,8
-200002038,Acura,acura,Acura_NSX,NSX,nsx,5
-200002038,Acura,acura,Acura_RDX,RDX,rdx,5
-200002038,Acura,acura,Acura_RL,RL,rl,5
-200002038,Acura,acura,Acura_RLX,RLX,rlx,5
-200002038,Acura,acura,Acura_RSX,RSX,rsx,5
-200002038,Acura,acura,Acura_SLX,SLX,slx,4
-200002038,Acura,acura,Acura_TL,TL,tl,4
-200002038,Acura,acura,Acura_TLX,TLX,tlx,4
-200002038,Acura,acura,Acura_TSX,TSX,tsx,4
-200002038,Acura,acura,Acura_TSX_Sport_Wagon,TSX Sport Wagon,tsx-sport-wagon,5
-200002038,Acura,acura,Acura_Vigor,Vigor,vigor,5
-200002038,Acura,acura,Acura_ZDX,ZDX,zdx,5
-200464140,Alfa Romeo,alfa-romeo,Alfa_Romeo_4C,4C,4c,4
-200001769,Aston Martin,aston-martin,Aston_Martin_DB7,DB7,db7,2
-200001769,Aston Martin,aston-martin,Aston_Martin_DB9,DB9,db9,2
-200001769,Aston Martin,aston-martin,Aston_Martin_DB9_GT,DB9 GT,db9-gt,2
-200001769,Aston Martin,aston-martin,Aston_Martin_DBS,DBS,dbs,2
-200001769,Aston Martin,aston-martin,Aston_Martin_Rapide,Rapide,rapide,2
-200001769,Aston Martin,aston-martin,Aston_Martin_Rapide_S,Rapide S,rapide-s,2
-200001769,Aston Martin,aston-martin,Aston_Martin_V12_Vanquish,V12 Vanquish,v12-vanquish,2
-200001769,Aston Martin,aston-martin,Aston_Martin_V12_Vantage,V12 Vantage,v12-vantage,2
-200001769,Aston Martin,aston-martin,Aston_Martin_V12_Vantage_S,V12 Vantage S,v12-vantage-s,2
-200001769,Aston Martin,aston-martin,Aston_Martin_V8_Vantage,V8 Vantage,v8-vantage,2
-200001769,Aston Martin,aston-martin,Aston_Martin_Vanquish,Vanquish,vanquish,2
-200001769,Aston Martin,aston-martin,Aston_Martin_Virage,Virage,virage,2
-200000001,Audi,audi,Audi_100,100,100,4
-200000001,Audi,audi,Audi_200,200,200,4
-200000001,Audi,audi,Audi_80,80,80,4
-200000001,Audi,audi,Audi_90,90,90,4
-200000001,Audi,audi,Audi_A3,A3,a3,4
-200000001,Audi,audi,Audi_A3_Sportback_e_tron,A3 Sportback e-tron,a3-sportback-e-tron,5
-200000001,Audi,audi,Audi_A4,A4,a4,4
-200000001,Audi,audi,Audi_A5,A5,a5,5
-200000001,Audi,audi,Audi_A6,A6,a6,5
-200000001,Audi,audi,Audi_A7,A7,a7,5
-200000001,Audi,audi,Audi_A8,A8,a8,5
-200000001,Audi,audi,Audi_Cabriolet,Cabriolet,cabriolet,4
-200000001,Audi,audi,Audi_Coupe,Coupe,coupe,4
-200000001,Audi,audi,Audi_Q3,Q3,q3,4
-200000001,Audi,audi,Audi_Q5,Q5,q5,5
-200000001,Audi,audi,Audi_Q7,Q7,q7,5
-200000001,Audi,audi,Audi_R8,R8,r8,2
-200000001,Audi,audi,Audi_RS_4,RS 4,rs-4,4
-200000001,Audi,audi,Audi_RS_5,RS 5,rs-5,5
-200000001,Audi,audi,Audi_RS_6,RS 6,rs-6,5
-200000001,Audi,audi,Audi_RS_7,RS 7,rs-7,5
-200000001,Audi,audi,Audi_S3,S3,s3,4
-200000001,Audi,audi,Audi_S4,S4,s4,4
-200000001,Audi,audi,Audi_S5,S5,s5,5
-200000001,Audi,audi,Audi_S6,S6,s6,5
-200000001,Audi,audi,Audi_S7,S7,s7,5
-200000001,Audi,audi,Audi_S8,S8,s8,5
-200000001,Audi,audi,Audi_SQ5,SQ5,sq5,5
-200000001,Audi,audi,Audi_TT,TT,tt,2
-200000001,Audi,audi,Audi_TT_RS,TT RS,tt-rs,2
-200000001,Audi,audi,Audi_TTS,TTS,tts,2
-200000001,Audi,audi,Audi_V8,V8,v8,5
-200000001,Audi,audi,Audi_allroad,allroad,allroad,4
-200000001,Audi,audi,Audi_allroad_quattro,allroad quattro,allroad-quattro,4
-200000081,BMW,bmw,BMW_1_Series,1 Series,1-series,4
-200000081,BMW,bmw,BMW_1_Series_M,1 Series M,1-series-m,4
-200000081,BMW,bmw,BMW_2_Series,2 Series,2-series,4
-200000081,BMW,bmw,BMW_3_Series,3 Series,3-series,4
-200000081,BMW,bmw,BMW_3_Series_Gran_Turismo,3 Series Gran Turismo,3-series-gran-turismo,4
-200000081,BMW,bmw,BMW_3_Series_eDrive,3 Series eDrive,3-series-edrive,4
-200000081,BMW,bmw,BMW_4_Series,4 Series,4-series,4
-200000081,BMW,bmw,BMW_4_Series_Gran_Coupe,4 Series Gran Coupe,4-series-gran-coupe,4
-200000081,BMW,bmw,BMW_5_Series,5 Series,5-series,55
-200000081,BMW,bmw,BMW_5_Series_Gran_Turismo,5 Series Gran Turismo,5-series-gran-turismo,5
-200000081,BMW,bmw,BMW_6_Series,6 Series,6-series,2
-200000081,BMW,bmw,BMW_6_Series_Gran_Coupe,6 Series Gran Coupe,6-series-gran-coupe,5
-200000081,BMW,bmw,BMW_7_Series,7 Series,7-series,5
-200000081,BMW,bmw,BMW_8_Series,8 Series,8-series,4
-200000081,BMW,bmw,BMW_ALPINA_B6_Gran_Coupe,ALPINA B6 Gran Coupe,alpina-b6-gran-coupe,5
-200000081,BMW,bmw,BMW_ALPINA_B7,ALPINA B7,alpina-b7,5
-200000081,BMW,bmw,BMW_ActiveHybrid_5,ActiveHybrid 5,activehybrid-5,5
-200000081,BMW,bmw,BMW_ActiveHybrid_7,ActiveHybrid 7,activehybrid-7,5
-200000081,BMW,bmw,BMW_ActiveHybrid_X6,ActiveHybrid X6,activehybrid-x6,5
-200000081,BMW,bmw,BMW_Alpina,Alpina,alpina,4
-200000081,BMW,bmw,BMW_M,M,m,4
-200000081,BMW,bmw,BMW_M2,M2,m2,4
-200000081,BMW,bmw,BMW_M3,M3,m3,4
-200000081,BMW,bmw,BMW_M4,M4,m4,4
-200000081,BMW,bmw,BMW_M5,M5,m5,5
-200000081,BMW,bmw,BMW_M6,M6,m6,2
-200000081,BMW,bmw,BMW_M6_Gran_Coupe,M6 Gran Coupe,m6-gran-coupe,4
-200000081,BMW,bmw,BMW_X1,X1,x1,5
-200000081,BMW,bmw,BMW_X3,X3,x3,5
-200000081,BMW,bmw,BMW_X4,X4,x4,5
-200000081,BMW,bmw,BMW_X5,X5,x5,5
-200000081,BMW,bmw,BMW_X5_M,X5 M,x5-m,5
-200000081,BMW,bmw,BMW_X5_eDrive,X5 eDrive,x5-edrive,5
-200000081,BMW,bmw,BMW_X6,X6,x6,5
-200000081,BMW,bmw,BMW_X6_M,X6 M,x6-m,5
-200000081,BMW,bmw,BMW_Z3,Z3,z3,2
-200000081,BMW,bmw,BMW_Z4,Z4,z4,2
-200000081,BMW,bmw,BMW_Z4_M,Z4 M,z4-m,2
-200000081,BMW,bmw,BMW_Z8,Z8,z8,2
-200000081,BMW,bmw,BMW_i3,i3,i3,2
-200000081,BMW,bmw,BMW_i8,i8,i8,4
-200005848,Bentley,bentley,Bentley_Arnage,Arnage,arnage,4
-200005848,Bentley,bentley,Bentley_Azure,Azure,azure,4
-200005848,Bentley,bentley,Bentley_Azure_T,Azure T,azure-t,4
-200005848,Bentley,bentley,Bentley_Brooklands,Brooklands,brooklands,5
-200005848,Bentley,bentley,Bentley_Continental,Continental,continental,5
-200005848,Bentley,bentley,Bentley_Continental_Flying_Spur,Continental Flying Spur,continental-flying-spur,5
-200005848,Bentley,bentley,Bentley_Continental_Flying_Spur_Speed,Continental Flying Spur Speed,continental-flying-spur-speed,5
-200005848,Bentley,bentley,Bentley_Continental_GT,Continental GT,continental-gt,5
-200005848,Bentley,bentley,Bentley_Continental_GT_Speed,Continental GT Speed,continental-gt-speed,5
-200005848,Bentley,bentley,Bentley_Continental_GT_Speed_Convertible,Continental GT Speed Convertible,continental-gt-speed-convertible,5
-200005848,Bentley,bentley,Bentley_Continental_GTC,Continental GTC,continental-gtc,5
-200005848,Bentley,bentley,Bentley_Continental_GTC_Speed,Continental GTC Speed,continental-gtc-speed,5
-200005848,Bentley,bentley,Bentley_Continental_Supersports,Continental Supersports,continental-supersports,5
-200005848,Bentley,bentley,Bentley_Continental_Supersports_Convertible,Continental Supersports Convertible,continental-supersports-convertible,5
-200005848,Bentley,bentley,Bentley_Flying_Spur,Flying Spur,flying-spur,5
-200005848,Bentley,bentley,Bentley_Mulsanne,Mulsanne,mulsanne,5
-200005848,Bentley,bentley,Bentley_Supersports_Convertible_ISR,Supersports Convertible ISR,supersports-convertible-isr,5
-200030397,Bugatti,bugatti,Bugatti_Veyron_16.4,Veyron 16.4,veyron-164,4
-200006659,Buick,buick,Buick_Cascada,Cascada,cascada,5
-200006659,Buick,buick,Buick_Century,Century,century,5
-200006659,Buick,buick,Buick_Electra,Electra,electra,5
-200006659,Buick,buick,Buick_Enclave,Enclave,enclave,5
-200006659,Buick,buick,Buick_Encore,Encore,encore,5
-200006659,Buick,buick,Buick_Envision,Envision,envision,5
-200006659,Buick,buick,Buick_Estate_Wagon,Estate Wagon,estate-wagon,6
-200006659,Buick,buick,Buick_LaCrosse,LaCrosse,lacrosse,5
-200006659,Buick,buick,Buick_LeSabre,LeSabre,lesabre,5
-200006659,Buick,buick,Buick_Lucerne,Lucerne,lucerne,5
-200006659,Buick,buick,Buick_Park_Avenue,Park Avenue,park-avenue,5
-200006659,Buick,buick,Buick_Rainier,Rainier,rainier,6
-200006659,Buick,buick,Buick_Reatta,Reatta,reatta,5
-200006659,Buick,buick,Buick_Regal,Regal,regal,5
-200006659,Buick,buick,Buick_Rendezvous,Rendezvous,rendezvous,5
-200006659,Buick,buick,Buick_Riviera,Riviera,riviera,5
-200006659,Buick,buick,Buick_Roadmaster,Roadmaster,roadmaster,5
-200006659,Buick,buick,Buick_Skylark,Skylark,skylark,5
-200006659,Buick,buick,Buick_Terraza,Terraza,terraza,5
-200006659,Buick,buick,Buick_Verano,Verano,verano,5
-200001663,Cadillac,cadillac,Cadillac_ATS,ATS,ats,4
-200001663,Cadillac,cadillac,Cadillac_ATS_Coupe,ATS Coupe,ats-coupe,4
-200001663,Cadillac,cadillac,Cadillac_ATS_V,ATS-V,ats-v,4
-200001663,Cadillac,cadillac,Cadillac_Allante,Allante,allante,5
-200001663,Cadillac,cadillac,Cadillac_Brougham,Brougham,brougham,6
-200001663,Cadillac,cadillac,Cadillac_CT6,CT6,ct6,4
-200001663,Cadillac,cadillac,Cadillac_CTS,CTS,cts,4
-200001663,Cadillac,cadillac,Cadillac_CTS_Coupe,CTS Coupe,cts-coupe,4
-200001663,Cadillac,cadillac,Cadillac_CTS_Wagon,CTS Wagon,cts-wagon,6
-200001663,Cadillac,cadillac,Cadillac_CTS_V,CTS-V,cts-v,4
-200001663,Cadillac,cadillac,Cadillac_CTS_V_Coupe,CTS-V Coupe,cts-v-coupe,4
-200001663,Cadillac,cadillac,Cadillac_CTS_V_Wagon,CTS-V Wagon,cts-v-wagon,6
-200001663,Cadillac,cadillac,Cadillac_Catera,Catera,catera,5
-200001663,Cadillac,cadillac,Cadillac_DTS,DTS,dts,5
-200001663,Cadillac,cadillac,Cadillac_DeVille,DeVille,deville,5
-200001663,Cadillac,cadillac,Cadillac_ELR,ELR,elr,5
-200001663,Cadillac,cadillac,Cadillac_Eldorado,Eldorado,eldorado,5
-200001663,Cadillac,cadillac,Cadillac_Escalade,Escalade,escalade,8
-200001663,Cadillac,cadillac,Cadillac_Escalade_ESV,Escalade ESV,escalade-esv,8
-200001663,Cadillac,cadillac,Cadillac_Escalade_EXT,Escalade EXT,escalade-ext,8
-200001663,Cadillac,cadillac,Cadillac_Escalade_Hybrid,Escalade Hybrid,escalade-hybrid,8
-200001663,Cadillac,cadillac,Cadillac_Fleetwood,Fleetwood,fleetwood,5
-200001663,Cadillac,cadillac,Cadillac_SRX,SRX,srx,5
-200001663,Cadillac,cadillac,Cadillac_STS,STS,sts,4
-200001663,Cadillac,cadillac,Cadillac_STS_V,STS-V,sts-v,4
-200001663,Cadillac,cadillac,Cadillac_Seville,Seville,seville,5
-200001663,Cadillac,cadillac,Cadillac_Sixty_Special,Sixty Special,sixty-special,5
-200001663,Cadillac,cadillac,Cadillac_XLR,XLR,xlr,5
-200001663,Cadillac,cadillac,Cadillac_XLR_V,XLR-V,xlr-v,5
-200001663,Cadillac,cadillac,Cadillac_XTS,XTS,xts,5
-200000404,Chevrolet,chevrolet,Chevrolet_Astro,Astro,astro,8
-200000404,Chevrolet,chevrolet,Chevrolet_Astro_Cargo,Astro Cargo,astro-cargo,8
-200000404,Chevrolet,chevrolet,Chevrolet_Avalanche,Avalanche,avalanche,5
-200000404,Chevrolet,chevrolet,Chevrolet_Aveo,Aveo,aveo,4
-200000404,Chevrolet,chevrolet,Chevrolet_Beretta,Beretta,beretta,4
-200000404,Chevrolet,chevrolet,Chevrolet_Black_Diamond_Avalanche,Black Diamond Avalanche,black-diamond-avalanche,4
-200000404,Chevrolet,chevrolet,Chevrolet_Blazer,Blazer,blazer,4
-200000404,Chevrolet,chevrolet,Chevrolet_C/K_1500_Series,C/K 1500 Series,ck-1500-series,4
-200000404,Chevrolet,chevrolet,Chevrolet_C/K_2500_Series,C/K 2500 Series,ck-2500-series,4
-200000404,Chevrolet,chevrolet,Chevrolet_C/K_3500_Series,C/K 3500 Series,ck-3500-series,4
-200000404,Chevrolet,chevrolet,Chevrolet_Camaro,Camaro,camaro,4
-200000404,Chevrolet,chevrolet,Chevrolet_Caprice,Caprice,caprice,5
-200000404,Chevrolet,chevrolet,Chevrolet_Captiva_Sport,Captiva Sport,captiva-sport,5
-200000404,Chevrolet,chevrolet,Chevrolet_Cavalier,Cavalier,cavalier,5
-200000404,Chevrolet,chevrolet,Chevrolet_Celebrity,Celebrity,celebrity,5
-200000404,Chevrolet,chevrolet,Chevrolet_Chevy_Van,Chevy Van,chevy-van,8
-200000404,Chevrolet,chevrolet,Chevrolet_Chevy_Van_Classic,Chevy Van Classic,chevy-van-classic,8
-200000404,Chevrolet,chevrolet,Chevrolet_City_Express,City Express,city-express,8
-200000404,Chevrolet,chevrolet,Chevrolet_Classic,Classic,classic,5
-200000404,Chevrolet,chevrolet,Chevrolet_Cobalt,Cobalt,cobalt,4
-200000404,Chevrolet,chevrolet,Chevrolet_Colorado,Colorado,colorado,4
-200000404,Chevrolet,chevrolet,Chevrolet_Corsica,Corsica,corsica,4
-200000404,Chevrolet,chevrolet,Chevrolet_Corvette,Corvette,corvette,2
-200000404,Chevrolet,chevrolet,Chevrolet_Corvette_Stingray,Corvette Stingray,corvette-stingray,2
-200000404,Chevrolet,chevrolet,Chevrolet_Cruze,Cruze,cruze,4
-200000404,Chevrolet,chevrolet,Chevrolet_Cruze_Limited,Cruze Limited,cruze-limited,4
-200000404,Chevrolet,chevrolet,Chevrolet_Equinox,Equinox,equinox,5
-200000404,Chevrolet,chevrolet,Chevrolet_Express,Express,express,8
-200000404,Chevrolet,chevrolet,Chevrolet_Express_Cargo,Express Cargo,express-cargo,8
-200000404,Chevrolet,chevrolet,Chevrolet_HHR,HHR,hhr,2
-200000404,Chevrolet,chevrolet,Chevrolet_Impala,Impala,impala,5
-200000404,Chevrolet,chevrolet,Chevrolet_Impala_Limited,Impala Limited,impala-limited,5
-200000404,Chevrolet,chevrolet,Chevrolet_Lumina,Lumina,lumina,5
-200000404,Chevrolet,chevrolet,Chevrolet_Lumina_Minivan,Lumina Minivan,lumina-minivan,8
-200000404,Chevrolet,chevrolet,Chevrolet_Malibu,Malibu,malibu,5
-200000404,Chevrolet,chevrolet,Chevrolet_Malibu_Classic,Malibu Classic,malibu-classic,5
-200000404,Chevrolet,chevrolet,Chevrolet_Malibu_Hybrid,Malibu Hybrid,malibu-hybrid,5
-200000404,Chevrolet,chevrolet,Chevrolet_Malibu_Limited,Malibu Limited,malibu-limited,5
-200000404,Chevrolet,chevrolet,Chevrolet_Malibu_Maxx,Malibu Maxx,malibu-maxx,5
-200000404,Chevrolet,chevrolet,Chevrolet_Metro,Metro,metro,4
-200000404,Chevrolet,chevrolet,Chevrolet_Monte_Carlo,Monte Carlo,monte-carlo,5
-200000404,Chevrolet,chevrolet,Chevrolet_Prizm,Prizm,prizm,4
-200000404,Chevrolet,chevrolet,Chevrolet_R/V_3500_Series,R/V 3500 Series,rv-3500-series,4
-200000404,Chevrolet,chevrolet,Chevrolet_S_10,S-10,s-10,4
-200000404,Chevrolet,chevrolet,Chevrolet_S_10_Blazer,S-10 Blazer,s-10-blazer,4
-200000404,Chevrolet,chevrolet,Chevrolet_SS,SS,ss,2
-200000404,Chevrolet,chevrolet,Chevrolet_SSR,SSR,ssr,2
-200000404,Chevrolet,chevrolet,Chevrolet_Silverado_1500,Silverado 1500,silverado-1500,5
-200000404,Chevrolet,chevrolet,Chevrolet_Silverado_1500_Classic,Silverado 1500 Classic,silverado-1500-classic,5
-200000404,Chevrolet,chevrolet,Chevrolet_Silverado_1500_Hybrid,Silverado 1500 Hybrid,silverado-1500-hybrid,5
-200000404,Chevrolet,chevrolet,Chevrolet_Silverado_1500HD,Silverado 1500HD,silverado-1500hd,5
-200000404,Chevrolet,chevrolet,Chevrolet_Silverado_1500HD_Classic,Silverado 1500HD Classic,silverado-1500hd-classic,5
-200000404,Chevrolet,chevrolet,Chevrolet_Silverado_2500,Silverado 2500,silverado-2500,5
-200000404,Chevrolet,chevrolet,Chevrolet_Silverado_2500HD,Silverado 2500HD,silverado-2500hd,5
-200000404,Chevrolet,chevrolet,Chevrolet_Silverado_2500HD_Classic,Silverado 2500HD Classic,silverado-2500hd-classic,5
-200000404,Chevrolet,chevrolet,Chevrolet_Silverado_3500,Silverado 3500,silverado-3500,5
-200000404,Chevrolet,chevrolet,Chevrolet_Silverado_3500_Classic,Silverado 3500 Classic,silverado-3500-classic,5
-200000404,Chevrolet,chevrolet,Chevrolet_Silverado_3500HD,Silverado 3500HD,silverado-3500hd,5
-200000404,Chevrolet,chevrolet,Chevrolet_Sonic,Sonic,sonic,4
-200000404,Chevrolet,chevrolet,Chevrolet_Spark,Spark,spark,4
-200000404,Chevrolet,chevrolet,Chevrolet_Spark_EV,Spark EV,spark-ev,4
-200000404,Chevrolet,chevrolet,Chevrolet_Sportvan,Sportvan,sportvan,8
-200000404,Chevrolet,chevrolet,Chevrolet_Suburban,Suburban,suburban,8
-200000404,Chevrolet,chevrolet,Chevrolet_Tahoe,Tahoe,tahoe,8
-200000404,Chevrolet,chevrolet,Chevrolet_Tahoe_Hybrid,Tahoe Hybrid,tahoe-hybrid,8
-200000404,Chevrolet,chevrolet,Chevrolet_Tahoe_Limited/Z71,Tahoe Limited/Z71,tahoe-limitedz71,8
-200000404,Chevrolet,chevrolet,Chevrolet_Tracker,Tracker,tracker,5
-200000404,Chevrolet,chevrolet,Chevrolet_TrailBlazer,TrailBlazer,trailblazer,5
-200000404,Chevrolet,chevrolet,Chevrolet_TrailBlazer_EXT,TrailBlazer EXT,trailblazer-ext,5
-200000404,Chevrolet,chevrolet,Chevrolet_Traverse,Traverse,traverse,5
-200000404,Chevrolet,chevrolet,Chevrolet_Trax,Trax,trax,5
-200000404,Chevrolet,chevrolet,Chevrolet_Uplander,Uplander,uplander,5
-200000404,Chevrolet,chevrolet,Chevrolet_Venture,Venture,venture,5
-200000404,Chevrolet,chevrolet,Chevrolet_Volt,Volt,volt,4
-200003644,Chrysler,chrysler,Chrysler_200,200,200,4
-200003644,Chrysler,chrysler,Chrysler_300,300,300,4
-200003644,Chrysler,chrysler,Chrysler_300M,300M,300m,4
-200003644,Chrysler,chrysler,Chrysler_Aspen,Aspen,aspen,4
-200003644,Chrysler,chrysler,Chrysler_Cirrus,Cirrus,cirrus,4
-200003644,Chrysler,chrysler,Chrysler_Concorde,Concorde,concorde,5
-200003644,Chrysler,chrysler,Chrysler_Crossfire,Crossfire,crossfire,2
-200003644,Chrysler,chrysler,Chrysler_Grand_Voyager,Grand Voyager,grand-voyager,5
-200003644,Chrysler,chrysler,Chrysler_Imperial,Imperial,imperial,5
-200003644,Chrysler,chrysler,Chrysler_LHS,LHS,lhs,5
-200003644,Chrysler,chrysler,Chrysler_Le_Baron,Le Baron,le-baron,5
-200003644,Chrysler,chrysler,Chrysler_New_Yorker,New Yorker,new-yorker,5
-200003644,Chrysler,chrysler,Chrysler_PT_Cruiser,PT Cruiser,pt-cruiser,2
-200003644,Chrysler,chrysler,Chrysler_Pacifica,Pacifica,pacifica,8
-200003644,Chrysler,chrysler,Chrysler_Prowler,Prowler,prowler,2
-200003644,Chrysler,chrysler,Chrysler_Sebring,Sebring,sebring,5
-200003644,Chrysler,chrysler,Chrysler_TC,TC,tc,5
-200003644,Chrysler,chrysler,Chrysler_Town_and_Country,Town and Country,town-and-country,8
-200003644,Chrysler,chrysler,Chrysler_Voyager,Voyager,voyager,8
-200312185,Daewoo,daewoo,Daewoo_Lanos,Lanos,lanos,4
-200312185,Daewoo,daewoo,Daewoo_Leganza,Leganza,leganza,4
-200312185,Daewoo,daewoo,Daewoo_Nubira,Nubira,nubira,5
-200009788,Dodge,dodge,Dodge_Avenger,Avenger,avenger,4
-200009788,Dodge,dodge,Dodge_Caliber,Caliber,caliber,4
-200009788,Dodge,dodge,Dodge_Caravan,Caravan,caravan,4
-200009788,Dodge,dodge,Dodge_Challenger,Challenger,challenger,4
-200009788,Dodge,dodge,Dodge_Charger,Charger,charger,4
-200009788,Dodge,dodge,Dodge_Colt,Colt,colt,4
-200009788,Dodge,dodge,Dodge_Dakota,Dakota,dakota,4
-200009788,Dodge,dodge,Dodge_Dart,Dart,dart,4
-200009788,Dodge,dodge,Dodge_Daytona,Daytona,daytona,4
-200009788,Dodge,dodge,Dodge_Durango,Durango,durango,4
-200009788,Dodge,dodge,Dodge_Dynasty,Dynasty,dynasty,4
-200009788,Dodge,dodge,Dodge_Grand_Caravan,Grand Caravan,grand-caravan,4
-200009788,Dodge,dodge,Dodge_Intrepid,Intrepid,intrepid,4
-200009788,Dodge,dodge,Dodge_Journey,Journey,journey,4
-200009788,Dodge,dodge,Dodge_Magnum,Magnum,magnum,4
-200009788,Dodge,dodge,Dodge_Monaco,Monaco,monaco,4
-200009788,Dodge,dodge,Dodge_Neon,Neon,neon,4
-200009788,Dodge,dodge,Dodge_Nitro,Nitro,nitro,4
-200009788,Dodge,dodge,Dodge_Omni,Omni,omni,4
-200009788,Dodge,dodge,Dodge_RAM_150,RAM 150,ram-150,5
-200009788,Dodge,dodge,Dodge_RAM_250,RAM 250,ram-250,5
-200009788,Dodge,dodge,Dodge_RAM_350,RAM 350,ram-350,5
-200009788,Dodge,dodge,Dodge_Ram_50_Pickup,Ram 50 Pickup,ram-50-pickup,5
-200009788,Dodge,dodge,Dodge_Ram_Cargo,Ram Cargo,ram-cargo,8
-200009788,Dodge,dodge,Dodge_Ram_Pickup_1500,Ram Pickup 1500,ram-pickup-1500,5
-200009788,Dodge,dodge,Dodge_Ram_Pickup_2500,Ram Pickup 2500,ram-pickup-2500,5
-200009788,Dodge,dodge,Dodge_Ram_Pickup_3500,Ram Pickup 3500,ram-pickup-3500,5
-200009788,Dodge,dodge,Dodge_Ram_Van,Ram Van,ram-van,8
-200009788,Dodge,dodge,Dodge_Ram_Wagon,Ram Wagon,ram-wagon,6
-200009788,Dodge,dodge,Dodge_Ramcharger,Ramcharger,ramcharger,5
-200009788,Dodge,dodge,Dodge_SRT_Viper,SRT Viper,srt-viper,2
-200009788,Dodge,dodge,Dodge_Shadow,Shadow,shadow,4
-200009788,Dodge,dodge,Dodge_Spirit,Spirit,spirit,4
-200009788,Dodge,dodge,Dodge_Sprinter,Sprinter,sprinter,8
-200009788,Dodge,dodge,Dodge_Sprinter_Cargo,Sprinter Cargo,sprinter-cargo,8
-200009788,Dodge,dodge,Dodge_Stealth,Stealth,stealth,4
-200009788,Dodge,dodge,Dodge_Stratus,Stratus,stratus,4
-200009788,Dodge,dodge,Dodge_Viper,Viper,viper,2
-200347865,Eagle,eagle,Eagle_Premier,Premier,premier,4
-200347865,Eagle,eagle,Eagle_Summit,Summit,summit,4
-200347865,Eagle,eagle,Eagle_Talon,Talon,talon,5
-200347865,Eagle,eagle,Eagle_Vision,Vision,vision,4
-200033022,FIAT,fiat,FIAT_500,500,500,4
-200033022,FIAT,fiat,FIAT_500L,500L,500l,4
-200033022,FIAT,fiat,FIAT_500X,500X,500x,4
-200033022,FIAT,fiat,FIAT_500e,500e,500e,4
-200006023,Ferrari,ferrari,Ferrari_360,360,360,2
-200006023,Ferrari,ferrari,Ferrari_430_Scuderia,430 Scuderia,430-scuderia,2
-200006023,Ferrari,ferrari,Ferrari_456M,456M,456m,2
-200006023,Ferrari,ferrari,Ferrari_458_Italia,458 Italia,458-italia,2
-200006023,Ferrari,ferrari,Ferrari_550,550,550,2
-200006023,Ferrari,ferrari,Ferrari_575M,575M,575m,2
-200006023,Ferrari,ferrari,Ferrari_599,599,599,2
-200006023,Ferrari,ferrari,Ferrari_612_Scaglietti,612 Scaglietti,612-scaglietti,2
-200006023,Ferrari,ferrari,Ferrari_California,California,california,2
-200006023,Ferrari,ferrari,Ferrari_California_T,California T,california-t,2
-200006023,Ferrari,ferrari,Ferrari_Enzo,Enzo,enzo,2
-200006023,Ferrari,ferrari,Ferrari_F12_Berlinetta,F12 Berlinetta,f12-berlinetta,2
-200006023,Ferrari,ferrari,Ferrari_F430,F430,f430,2
-200006023,Ferrari,ferrari,Ferrari_FF,FF,ff,2
-200006023,Ferrari,ferrari,Ferrari_Superamerica,Superamerica,superamerica,2
-200005745,Fisker,fisker,Fisker_Karma,Karma,karma,4
-200005143,Ford,ford,Ford_Aerostar,Aerostar,aerostar,8
-200005143,Ford,ford,Ford_Aspire,Aspire,aspire,5
-200005143,Ford,ford,Ford_Bronco,Bronco,bronco,4
-200005143,Ford,ford,Ford_Bronco_II,Bronco II,bronco-ii,4
-200005143,Ford,ford,Ford_C_Max_Energi,C-Max Energi,c-max-energi,4
-200005143,Ford,ford,Ford_C_Max_Hybrid,C-Max Hybrid,c-max-hybrid,4
-200005143,Ford,ford,Ford_Contour,Contour,contour,5
-200005143,Ford,ford,Ford_Contour_SVT,Contour SVT,contour-svt,5
-200005143,Ford,ford,Ford_Crown_Victoria,Crown Victoria,crown-victoria,5
-200005143,Ford,ford,Ford_E_150,E-150,e-150,5
-200005143,Ford,ford,Ford_E_250,E-250,e-250,5
-200005143,Ford,ford,Ford_E_350,E-350,e-350,5
-200005143,Ford,ford,Ford_E_Series_Van,E-Series Van,e-series-van,8
-200005143,Ford,ford,Ford_E_Series_Wagon,E-Series Wagon,e-series-wagon,6
-200005143,Ford,ford,Ford_Econoline_Cargo,Econoline Cargo,econoline-cargo,8
-200005143,Ford,ford,Ford_Econoline_Wagon,Econoline Wagon,econoline-wagon,6
-200005143,Ford,ford,Ford_Edge,Edge,edge,5
-200005143,Ford,ford,Ford_Escape,Escape,escape,4
-200005143,Ford,ford,Ford_Escape_Hybrid,Escape Hybrid,escape-hybrid,4
-200005143,Ford,ford,Ford_Escort,Escort,escort,4
-200005143,Ford,ford,Ford_Excursion,Excursion,excursion,4
-200005143,Ford,ford,Ford_Expedition,Expedition,expedition,8
-200005143,Ford,ford,Ford_Expedition_EL,Expedition EL,expedition-el,8
-200005143,Ford,ford,Ford_Explorer,Explorer,explorer,5
-200005143,Ford,ford,Ford_Explorer_Sport,Explorer Sport,explorer-sport,5
-200005143,Ford,ford,Ford_Explorer_Sport_Trac,Explorer Sport Trac,explorer-sport-trac,5
-200005143,Ford,ford,Ford_F_150,F-150,f-150,5
-200005143,Ford,ford,Ford_F_150_Heritage,F-150 Heritage,f-150-heritage,5
-200005143,Ford,ford,Ford_F_150_SVT_Lightning,F-150 SVT Lightning,f-150-svt-lightning,2
-200005143,Ford,ford,Ford_F_250,F-250,f-250,5
-200005143,Ford,ford,Ford_F_250_Super_Duty,F-250 Super Duty,f-250-super-duty,5
-200005143,Ford,ford,Ford_F_350,F-350,f-350,5
-200005143,Ford,ford,Ford_F_350_Super_Duty,F-350 Super Duty,f-350-super-duty,5
-200005143,Ford,ford,Ford_F_450_Super_Duty,F-450 Super Duty,f-450-super-duty,5
-200005143,Ford,ford,Ford_Festiva,Festiva,festiva,4
-200005143,Ford,ford,Ford_Fiesta,Fiesta,fiesta,4
-200005143,Ford,ford,Ford_Five_Hundred,Five Hundred,five-hundred,5
-200005143,Ford,ford,Ford_Flex,Flex,flex,4
-200005143,Ford,ford,Ford_Focus,Focus,focus,4
-200005143,Ford,ford,Ford_Focus_RS,Focus RS,focus-rs,4
-200005143,Ford,ford,Ford_Focus_ST,Focus ST,focus-st,4
-200005143,Ford,ford,Ford_Freestar,Freestar,freestar,4
-200005143,Ford,ford,Ford_Freestyle,Freestyle,freestyle,8
-200005143,Ford,ford,Ford_Fusion,Fusion,fusion,4
-200005143,Ford,ford,Ford_Fusion_Energi,Fusion Energi,fusion-energi,4
-200005143,Ford,ford,Ford_Fusion_Hybrid,Fusion Hybrid,fusion-hybrid,4
-200005143,Ford,ford,Ford_GT,GT,gt,2
-200005143,Ford,ford,Ford_LTD_Crown_Victoria,LTD Crown Victoria,ltd-crown-victoria,5
-200005143,Ford,ford,Ford_Mustang,Mustang,mustang,4
-200005143,Ford,ford,Ford_Mustang_SVT_Cobra,Mustang SVT Cobra,mustang-svt-cobra,4
-200005143,Ford,ford,Ford_Probe,Probe,probe,4
-200005143,Ford,ford,Ford_Ranger,Ranger,ranger,4
-200005143,Ford,ford,Ford_Shelby_GT350,Shelby GT350,shelby-gt350,4
-200005143,Ford,ford,Ford_Shelby_GT500,Shelby GT500,shelby-gt500,4
-200005143,Ford,ford,Ford_Taurus,Taurus,taurus,5
-200005143,Ford,ford,Ford_Taurus_X,Taurus X,taurus-x,5
-200005143,Ford,ford,Ford_Tempo,Tempo,tempo,4
-200005143,Ford,ford,Ford_Thunderbird,Thunderbird,thunderbird,4
-200005143,Ford,ford,Ford_Transit_Connect,Transit Connect,transit-connect,8
-200005143,Ford,ford,Ford_Transit_Van,Transit Van,transit-van,8
-200005143,Ford,ford,Ford_Transit_Wagon,Transit Wagon,transit-wagon,6
-200005143,Ford,ford,Ford_Windstar,Windstar,windstar,8
-200005143,Ford,ford,Ford_Windstar_Cargo,Windstar Cargo,windstar-cargo,8
-200007302,GMC,gmc,GMC_Acadia,Acadia,acadia,5
-200007302,GMC,gmc,GMC_Canyon,Canyon,canyon,5
-200007302,GMC,gmc,GMC_Envoy,Envoy,envoy,8
-200007302,GMC,gmc,GMC_Envoy_XL,Envoy XL,envoy-xl,8
-200007302,GMC,gmc,GMC_Envoy_XUV,Envoy XUV,envoy-xuv,8
-200007302,GMC,gmc,GMC_Jimmy,Jimmy,jimmy,8
-200007302,GMC,gmc,GMC_R/V_3500_Series,R/V 3500 Series,rv-3500-series,8
-200007302,GMC,gmc,GMC_Rally_Wagon,Rally Wagon,rally-wagon,6
-200007302,GMC,gmc,GMC_S_15,S-15,s-15,2
-200007302,GMC,gmc,GMC_S_15_Jimmy,S-15 Jimmy,s-15-jimmy,5
-200007302,GMC,gmc,GMC_Safari,Safari,safari,8
-200007302,GMC,gmc,GMC_Safari_Cargo,Safari Cargo,safari-cargo,8
-200007302,GMC,gmc,GMC_Savana,Savana,savana,8
-200007302,GMC,gmc,GMC_Savana_Cargo,Savana Cargo,savana-cargo,8
-200007302,GMC,gmc,GMC_Sierra_1500,Sierra 1500,sierra-1500,5
-200007302,GMC,gmc,GMC_Sierra_1500_Classic,Sierra 1500 Classic,sierra-1500-classic,5
-200007302,GMC,gmc,GMC_Sierra_1500_Hybrid,Sierra 1500 Hybrid,sierra-1500-hybrid,5
-200007302,GMC,gmc,GMC_Sierra_1500HD,Sierra 1500HD,sierra-1500hd,5
-200007302,GMC,gmc,GMC_Sierra_1500HD_Classic,Sierra 1500HD Classic,sierra-1500hd-classic,5
-200007302,GMC,gmc,GMC_Sierra_2500,Sierra 2500,sierra-2500,5
-200007302,GMC,gmc,GMC_Sierra_2500HD,Sierra 2500HD,sierra-2500hd,5
-200007302,GMC,gmc,GMC_Sierra_2500HD_Classic,Sierra 2500HD Classic,sierra-2500hd-classic,5
-200007302,GMC,gmc,GMC_Sierra_3500,Sierra 3500,sierra-3500,5
-200007302,GMC,gmc,GMC_Sierra_3500_Classic,Sierra 3500 Classic,sierra-3500-classic,5
-200007302,GMC,gmc,GMC_Sierra_3500HD,Sierra 3500HD,sierra-3500hd,5
-200007302,GMC,gmc,GMC_Sierra_C3,Sierra C3,sierra-c3,5
-200007302,GMC,gmc,GMC_Sierra_Classic_1500,Sierra Classic 1500,sierra-classic-1500,5
-200007302,GMC,gmc,GMC_Sierra_Classic_2500,Sierra Classic 2500,sierra-classic-2500,5
-200007302,GMC,gmc,GMC_Sierra_Classic_3500,Sierra Classic 3500,sierra-classic-3500,5
-200007302,GMC,gmc,GMC_Sonoma,Sonoma,sonoma,5
-200007302,GMC,gmc,GMC_Suburban,Suburban,suburban,8
-200007302,GMC,gmc,GMC_Syclone,Syclone,syclone,2
-200007302,GMC,gmc,GMC_Terrain,Terrain,terrain,5
-200007302,GMC,gmc,GMC_Typhoon,Typhoon,typhoon,5
-200007302,GMC,gmc,GMC_Vandura,Vandura,vandura,8
-200007302,GMC,gmc,GMC_Yukon,Yukon,yukon,8
-200007302,GMC,gmc,GMC_Yukon_Denali,Yukon Denali,yukon-denali,8
-200007302,GMC,gmc,GMC_Yukon_Hybrid,Yukon Hybrid,yukon-hybrid,8
-200007302,GMC,gmc,GMC_Yukon_XL,Yukon XL,yukon-xl,8
-200347866,Geo,geo,Geo_Metro,Metro,metro,4
-200347866,Geo,geo,Geo_Prizm,Prizm,prizm,4
-200347866,Geo,geo,Geo_Storm,Storm,storm,4
-200347866,Geo,geo,Geo_Tracker,Tracker,tracker,5
-200004021,HUMMER,hummer,HUMMER_H1,H1,h1,5
-200004021,HUMMER,hummer,HUMMER_H1_Alpha,H1 Alpha,h1-alpha,5
-200004021,HUMMER,hummer,HUMMER_H2,H2,h2,5
-200004021,HUMMER,hummer,HUMMER_H2_SUT,H2 SUT,h2-sut,5
-200004021,HUMMER,hummer,HUMMER_H3,H3,h3,5
-200004021,HUMMER,hummer,HUMMER_H3T,H3T,h3t,5
-200001444,Honda,honda,Honda_Accord,Accord,accord,4
-200001444,Honda,honda,Honda_Accord_Crosstour,Accord Crosstour,accord-crosstour,4
-200001444,Honda,honda,Honda_Accord_Hybrid,Accord Hybrid,accord-hybrid,4
-200001444,Honda,honda,Honda_Accord_Plug_In_Hybrid,Accord Plug-In Hybrid,accord-plug-in-hybrid,4
-200001444,Honda,honda,Honda_CR_V,CR-V,cr-v,4
-200001444,Honda,honda,Honda_CR_Z,CR-Z,cr-z,4
-200001444,Honda,honda,Honda_Civic,Civic,civic,4
-200001444,Honda,honda,Honda_Civic_CRX,Civic CRX,civic-crx,4
-200001444,Honda,honda,Honda_Civic_del_Sol,Civic del Sol,civic-del-sol,2
-200001444,Honda,honda,Honda_Crosstour,Crosstour,crosstour,5
-200001444,Honda,honda,Honda_Element,Element,element,6
-200001444,Honda,honda,Honda_Fit,Fit,fit,4
-200001444,Honda,honda,Honda_Fit_EV,Fit EV,fit-ev,4
-200001444,Honda,honda,Honda_HR_V,HR-V,hr-v,4
-200001444,Honda,honda,Honda_Insight,Insight,insight,4
-200001444,Honda,honda,Honda_Odyssey,Odyssey,odyssey,8
-200001444,Honda,honda,Honda_Passport,Passport,passport,5
-200001444,Honda,honda,Honda_Pilot,Pilot,pilot,8
-200001444,Honda,honda,Honda_Prelude,Prelude,prelude,4
-200001444,Honda,honda,Honda_Ridgeline,Ridgeline,ridgeline,4
-200001444,Honda,honda,Honda_S2000,S2000,s2000,2
-200001398,Hyundai,hyundai,Hyundai_Accent,Accent,accent,4
-200001398,Hyundai,hyundai,Hyundai_Azera,Azera,azera,4
-200001398,Hyundai,hyundai,Hyundai_Elantra,Elantra,elantra,4
-200001398,Hyundai,hyundai,Hyundai_Elantra_Coupe,Elantra Coupe,elantra-coupe,4
-200001398,Hyundai,hyundai,Hyundai_Elantra_GT,Elantra GT,elantra-gt,4
-200001398,Hyundai,hyundai,Hyundai_Elantra_Touring,Elantra Touring,elantra-touring,5
-200001398,Hyundai,hyundai,Hyundai_Entourage,Entourage,entourage,5
-200001398,Hyundai,hyundai,Hyundai_Equus,Equus,equus,5
-200001398,Hyundai,hyundai,Hyundai_Excel,Excel,excel,4
-200001398,Hyundai,hyundai,Hyundai_Genesis,Genesis,genesis,4
-200001398,Hyundai,hyundai,Hyundai_Genesis_Coupe,Genesis Coupe,genesis-coupe,4
-200001398,Hyundai,hyundai,Hyundai_Santa_Fe,Santa Fe,santa-fe,5
-200001398,Hyundai,hyundai,Hyundai_Santa_Fe_Sport,Santa Fe Sport,santa-fe-sport,5
-200001398,Hyundai,hyundai,Hyundai_Scoupe,Scoupe,scoupe,4
-200001398,Hyundai,hyundai,Hyundai_Sonata,Sonata,sonata,5
-200001398,Hyundai,hyundai,Hyundai_Sonata_Hybrid,Sonata Hybrid,sonata-hybrid,5
-200001398,Hyundai,hyundai,Hyundai_Sonata_Plug_In_Hybrid,Sonata Plug-In Hybrid,sonata-plug-in-hybrid,5
-200001398,Hyundai,hyundai,Hyundai_Sonata_Plug_in_Hybrid,Sonata Plug-in Hybrid,sonata-plug-in-hybrid,5
-200001398,Hyundai,hyundai,Hyundai_Tiburon,Tiburon,tiburon,6
-200001398,Hyundai,hyundai,Hyundai_Tucson,Tucson,tucson,5
-200001398,Hyundai,hyundai,Hyundai_Veloster,Veloster,veloster,2
-200001398,Hyundai,hyundai,Hyundai_Veracruz,Veracruz,veracruz,4
-200001398,Hyundai,hyundai,Hyundai_XG300,XG300,xg300,4
-200001398,Hyundai,hyundai,Hyundai_XG350,XG350,xg350,4
-200000089,Infiniti,infiniti,Infiniti_EX,EX,ex,5
-200000089,Infiniti,infiniti,Infiniti_EX35,EX35,ex35,5
-200000089,Infiniti,infiniti,Infiniti_FX,FX,fx,5
-200000089,Infiniti,infiniti,Infiniti_FX35,FX35,fx35,5
-200000089,Infiniti,infiniti,Infiniti_FX45,FX45,fx45,5
-200000089,Infiniti,infiniti,Infiniti_FX50,FX50,fx50,5
-200000089,Infiniti,infiniti,Infiniti_G_Convertible,G Convertible,g-convertible,4
-200000089,Infiniti,infiniti,Infiniti_G_Coupe,G Coupe,g-coupe,4
-200000089,Infiniti,infiniti,Infiniti_G_Sedan,G Sedan,g-sedan,5
-200000089,Infiniti,infiniti,Infiniti_G20,G20,g20,4
-200000089,Infiniti,infiniti,Infiniti_G35,G35,g35,4
-200000089,Infiniti,infiniti,Infiniti_G37,G37,g37,4
-200000089,Infiniti,infiniti,Infiniti_G37_Convertible,G37 Convertible,g37-convertible,4
-200000089,Infiniti,infiniti,Infiniti_G37_Coupe,G37 Coupe,g37-coupe,4
-200000089,Infiniti,infiniti,Infiniti_G37_Sedan,G37 Sedan,g37-sedan,5
-200000089,Infiniti,infiniti,Infiniti_I30,I30,i30,4
-200000089,Infiniti,infiniti,Infiniti_I35,I35,i35,4
-200000089,Infiniti,infiniti,Infiniti_J30,J30,j30,4
-200000089,Infiniti,infiniti,Infiniti_JX,JX,jx,5
-200000089,Infiniti,infiniti,Infiniti_M,M,m,5
-200000089,Infiniti,infiniti,Infiniti_M30,M30,m30,5
-200000089,Infiniti,infiniti,Infiniti_M35,M35,m35,5
-200000089,Infiniti,infiniti,Infiniti_M37,M37,m37,5
-200000089,Infiniti,infiniti,Infiniti_M45,M45,m45,5
-200000089,Infiniti,infiniti,Infiniti_M56,M56,m56,5
-200000089,Infiniti,infiniti,Infiniti_Q40,Q40,q40,5
-200000089,Infiniti,infiniti,Infiniti_Q45,Q45,q45,5
-200000089,Infiniti,infiniti,Infiniti_Q50,Q50,q50,5
-200000089,Infiniti,infiniti,Infiniti_Q60_Convertible,Q60 Convertible,q60-convertible,4
-200000089,Infiniti,infiniti,Infiniti_Q60_Coupe,Q60 Coupe,q60-coupe,4
-200000089,Infiniti,infiniti,Infiniti_Q70,Q70,q70,5
-200000089,Infiniti,infiniti,Infiniti_QX,QX,qx,4
-200000089,Infiniti,infiniti,Infiniti_QX4,QX4,qx4,4
-200000089,Infiniti,infiniti,Infiniti_QX50,QX50,qx50,5
-200000089,Infiniti,infiniti,Infiniti_QX56,QX56,qx56,8
-200000089,Infiniti,infiniti,Infiniti_QX60,QX60,qx60,8
-200000089,Infiniti,infiniti,Infiniti_QX70,QX70,qx70,8
-200000089,Infiniti,infiniti,Infiniti_QX80,QX80,qx80,8
-200110731,Isuzu,isuzu,Isuzu_Amigo,Amigo,amigo,4
-200110731,Isuzu,isuzu,Isuzu_Ascender,Ascender,ascender,5
-200110731,Isuzu,isuzu,Isuzu_Axiom,Axiom,axiom,4
-200110731,Isuzu,isuzu,Isuzu_Hombre,Hombre,hombre,5
-200110731,Isuzu,isuzu,Isuzu_Impulse,Impulse,impulse,4
-200110731,Isuzu,isuzu,Isuzu_Oasis,Oasis,oasis,4
-200110731,Isuzu,isuzu,Isuzu_Pickup,Pickup,pickup,2
-200110731,Isuzu,isuzu,Isuzu_Rodeo,Rodeo,rodeo,5
-200110731,Isuzu,isuzu,Isuzu_Rodeo_Sport,Rodeo Sport,rodeo-sport,5
-200110731,Isuzu,isuzu,Isuzu_Stylus,Stylus,stylus,5
-200110731,Isuzu,isuzu,Isuzu_Trooper,Trooper,trooper,5
-200110731,Isuzu,isuzu,Isuzu_VehiCROSS,VehiCROSS,vehicross,5
-200110731,Isuzu,isuzu,Isuzu_i_Series,i-Series,i-series,4
-200003196,Jaguar,jaguar,Jaguar_F_TYPE,F-TYPE,f-type,2
-200003196,Jaguar,jaguar,Jaguar_S_Type,S-Type,s-type,5
-200003196,Jaguar,jaguar,Jaguar_X_Type,X-Type,x-type,5
-200003196,Jaguar,jaguar,Jaguar_XF,XF,xf,5
-200003196,Jaguar,jaguar,Jaguar_XJ,XJ,xj,5
-200003196,Jaguar,jaguar,Jaguar_XJ_Series,XJ-Series,xj-series,5
-200003196,Jaguar,jaguar,Jaguar_XJR,XJR,xjr,5
-200003196,Jaguar,jaguar,Jaguar_XK,XK,xk,2
-200003196,Jaguar,jaguar,Jaguar_XK_Series,XK-Series,xk-series,2
-200003196,Jaguar,jaguar,Jaguar_XKR,XKR,xkr,2
-200001510,Jeep,jeep,Jeep_Cherokee,Cherokee,cherokee,5
-200001510,Jeep,jeep,Jeep_Comanche,Comanche,comanche,5
-200001510,Jeep,jeep,Jeep_Commander,Commander,commander,5
-200001510,Jeep,jeep,Jeep_Compass,Compass,compass,4
-200001510,Jeep,jeep,Jeep_Grand_Cherokee,Grand Cherokee,grand-cherokee,7
-200001510,Jeep,jeep,Jeep_Grand_Cherokee_SRT,Grand Cherokee SRT,grand-cherokee-srt,7
-200001510,Jeep,jeep,Jeep_Grand_Wagoneer,Grand Wagoneer,grand-wagoneer,8
-200001510,Jeep,jeep,Jeep_Liberty,Liberty,liberty,4
-200001510,Jeep,jeep,Jeep_Patriot,Patriot,patriot,5
-200001510,Jeep,jeep,Jeep_Renegade,Renegade,renegade,4
-200001510,Jeep,jeep,Jeep_Wagoneer,Wagoneer,wagoneer,7
-200001510,Jeep,jeep,Jeep_Wrangler,Wrangler,wrangler,5
-200003063,Kia,kia,Kia_Amanti,Amanti,amanti,5
-200003063,Kia,kia,Kia_Borrego,Borrego,borrego,5
-200003063,Kia,kia,Kia_Cadenza,Cadenza,cadenza,5
-200003063,Kia,kia,Kia_Forte,Forte,forte,5
-200003063,Kia,kia,Kia_K900,K900,k900,5
-200003063,Kia,kia,Kia_Optima,Optima,optima,5
-200003063,Kia,kia,Kia_Optima_Hybrid,Optima Hybrid,optima-hybrid,5
-200003063,Kia,kia,Kia_Rio,Rio,rio,5
-200003063,Kia,kia,Kia_Rondo,Rondo,rondo,4
-200003063,Kia,kia,Kia_Sedona,Sedona,sedona,5
-200003063,Kia,kia,Kia_Sephia,Sephia,sephia,4
-200003063,Kia,kia,Kia_Sorento,Sorento,sorento,4
-200003063,Kia,kia,Kia_Soul,Soul,soul,4
-200003063,Kia,kia,Kia_Soul_EV,Soul EV,soul-ev,4
-200003063,Kia,kia,Kia_Spectra,Spectra,spectra,4
-200003063,Kia,kia,Kia_Sportage,Sportage,sportage,4
-200005922,Lamborghini,lamborghini,Lamborghini_Aventador,Aventador,aventador,2
-200005922,Lamborghini,lamborghini,Lamborghini_Diablo,Diablo,diablo,2
-200005922,Lamborghini,lamborghini,Lamborghini_Gallardo,Gallardo,gallardo,2
-200005922,Lamborghini,lamborghini,Lamborghini_Huracan,Huracan,huracan,2
-200005922,Lamborghini,lamborghini,Lamborghini_Murcielago,Murcielago,murcielago,2
-200005922,Lamborghini,lamborghini,Lamborghini_Reventon,Reventon,reventon,2
-200006582,Land Rover,land-rover,Land_Rover_Defender,Defender,defender,5
-200006582,Land Rover,land-rover,Land_Rover_Discovery,Discovery,discovery,5
-200006582,Land Rover,land-rover,Land_Rover_Discovery_Series_II,Discovery Series II,discovery-series-ii,5
-200006582,Land Rover,land-rover,Land_Rover_Discovery_Sport,Discovery Sport,discovery-sport,5
-200006582,Land Rover,land-rover,Land_Rover_Freelander,Freelander,freelander,5
-200006582,Land Rover,land-rover,Land_Rover_LR2,LR2,lr2,5
-200006582,Land Rover,land-rover,Land_Rover_LR3,LR3,lr3,5
-200006582,Land Rover,land-rover,Land_Rover_LR4,LR4,lr4,5
-200006582,Land Rover,land-rover,Land_Rover_Range_Rover,Range Rover,range-rover,5
-200006582,Land Rover,land-rover,Land_Rover_Range_Rover_Evoque,Range Rover Evoque,range-rover-evoque,5
-200006582,Land Rover,land-rover,Land_Rover_Range_Rover_Sport,Range Rover Sport,range-rover-sport,5
-200001623,Lexus,lexus,Lexus_CT_200h,CT 200h,ct-200h,4
-200001623,Lexus,lexus,Lexus_ES_250,ES 250,es-250,4
-200001623,Lexus,lexus,Lexus_ES_300,ES 300,es-300,5
-200001623,Lexus,lexus,Lexus_ES_300h,ES 300h,es-300h,5
-200001623,Lexus,lexus,Lexus_ES_330,ES 330,es-330,5
-200001623,Lexus,lexus,Lexus_ES_350,ES 350,es-350,5
-200001623,Lexus,lexus,Lexus_GS_200t,GS 200t,gs-200t,5
-200001623,Lexus,lexus,Lexus_GS_300,GS 300,gs-300,5
-200001623,Lexus,lexus,Lexus_GS_350,GS 350,gs-350,5
-200001623,Lexus,lexus,Lexus_GS_400,GS 400,gs-400,5
-200001623,Lexus,lexus,Lexus_GS_430,GS 430,gs-430,5
-200001623,Lexus,lexus,Lexus_GS_450h,GS 450h,gs-450h,5
-200001623,Lexus,lexus,Lexus_GS_460,GS 460,gs-460,5
-200001623,Lexus,lexus,Lexus_GS_F,GS F,gs-f,5
-200001623,Lexus,lexus,Lexus_GX_460,GX 460,gx-460,8
-200001623,Lexus,lexus,Lexus_GX_470,GX 470,gx-470,8
-200001623,Lexus,lexus,Lexus_HS_250h,HS 250h,hs-250h,4
-200001623,Lexus,lexus,Lexus_IS_200t,IS 200t,is-200t,4
-200001623,Lexus,lexus,Lexus_IS_250,IS 250,is-250,4
-200001623,Lexus,lexus,Lexus_IS_250_C,IS 250 C,is-250-c,4
-200001623,Lexus,lexus,Lexus_IS_300,IS 300,is-300,5
-200001623,Lexus,lexus,Lexus_IS_350,IS 350,is-350,5
-200001623,Lexus,lexus,Lexus_IS_350_C,IS 350 C,is-350-c,5
-200001623,Lexus,lexus,Lexus_IS_F,IS F,is-f,4
-200001623,Lexus,lexus,Lexus_LFA,LFA,lfa,2
-200001623,Lexus,lexus,Lexus_LS_400,LS 400,ls-400,5
-200001623,Lexus,lexus,Lexus_LS_430,LS 430,ls-430,5
-200001623,Lexus,lexus,Lexus_LS_460,LS 460,ls-460,5
-200001623,Lexus,lexus,Lexus_LS_600h_L,LS 600h L,ls-600h-l,5
-200001623,Lexus,lexus,Lexus_LX_450,LX 450,lx-450,8
-200001623,Lexus,lexus,Lexus_LX_470,LX 470,lx-470,8
-200001623,Lexus,lexus,Lexus_LX_570,LX 570,lx-570,8
-200001623,Lexus,lexus,Lexus_NX_200t,NX 200t,nx-200t,4
-200001623,Lexus,lexus,Lexus_NX_300h,NX 300h,nx-300h,5
-200001623,Lexus,lexus,Lexus_RC_200t,RC 200t,rc-200t,4
-200001623,Lexus,lexus,Lexus_RC_300,RC 300,rc-300,5
-200001623,Lexus,lexus,Lexus_RC_350,RC 350,rc-350,5
-200001623,Lexus,lexus,Lexus_RC_F,RC F,rc-f,4
-200001623,Lexus,lexus,Lexus_RX_300,RX 300,rx-300,5
-200001623,Lexus,lexus,Lexus_RX_330,RX 330,rx-330,5
-200001623,Lexus,lexus,Lexus_RX_350,RX 350,rx-350,5
-200001623,Lexus,lexus,Lexus_RX_400h,RX 400h,rx-400h,5
-200001623,Lexus,lexus,Lexus_RX_450h,RX 450h,rx-450h,5
-200001623,Lexus,lexus,Lexus_SC_300,SC 300,sc-300,4
-200001623,Lexus,lexus,Lexus_SC_400,SC 400,sc-400,4
-200001623,Lexus,lexus,Lexus_SC_430,SC 430,sc-430,4
-200001777,Lincoln,lincoln,Lincoln_Aviator,Aviator,aviator,5
-200001777,Lincoln,lincoln,Lincoln_Blackwood,Blackwood,blackwood,5
-200001777,Lincoln,lincoln,Lincoln_Continental,Continental,continental,6
-200001777,Lincoln,lincoln,Lincoln_LS,LS,ls,5
-200001777,Lincoln,lincoln,Lincoln_MKC,MKC,mkc,5
-200001777,Lincoln,lincoln,Lincoln_MKS,MKS,mks,5
-200001777,Lincoln,lincoln,Lincoln_MKT,MKT,mkt,5
-200001777,Lincoln,lincoln,Lincoln_MKX,MKX,mkx,5
-200001777,Lincoln,lincoln,Lincoln_MKZ,MKZ,mkz,5
-200001777,Lincoln,lincoln,Lincoln_MKZ_Hybrid,MKZ Hybrid,mkz-hybrid,5
-200001777,Lincoln,lincoln,Lincoln_Mark_LT,Mark LT,mark-lt,5
-200001777,Lincoln,lincoln,Lincoln_Mark_VII,Mark VII,mark-vii,5
-200001777,Lincoln,lincoln,Lincoln_Mark_VIII,Mark VIII,mark-viii,5
-200001777,Lincoln,lincoln,Lincoln_Navigator,Navigator,navigator,8
-200001777,Lincoln,lincoln,Lincoln_Navigator_L,Navigator L,navigator-l,8
-200001777,Lincoln,lincoln,Lincoln_Town_Car,Town Car,town-car,6
-200001777,Lincoln,lincoln,Lincoln_Zephyr,Zephyr,zephyr,5
-200006242,Lotus,lotus,Lotus_Elise,Elise,elise,2
-200006242,Lotus,lotus,Lotus_Esprit,Esprit,esprit,2
-200006242,Lotus,lotus,Lotus_Evora,Evora,evora,2
-200006242,Lotus,lotus,Lotus_Exige,Exige,exige,2
-200002305,MINI,mini,MINI_Cooper,Cooper,cooper,4
-200002305,MINI,mini,MINI_Cooper_Clubman,Cooper Clubman,cooper-clubman,5
-200002305,MINI,mini,MINI_Cooper_Countryman,Cooper Countryman,cooper-countryman,5
-200002305,MINI,mini,MINI_Cooper_Coupe,Cooper Coupe,cooper-coupe,2
-200002305,MINI,mini,MINI_Cooper_Paceman,Cooper Paceman,cooper-paceman,4
-200002305,MINI,mini,MINI_Cooper_Roadster,Cooper Roadster,cooper-roadster,2
-200028029,Maserati,maserati,Maserati_Coupe,Coupe,coupe,2
-200028029,Maserati,maserati,Maserati_Ghibli,Ghibli,ghibli,2
-200028029,Maserati,maserati,Maserati_GranSport,GranSport,gransport,2
-200028029,Maserati,maserati,Maserati_GranTurismo,GranTurismo,granturismo,2
-200028029,Maserati,maserati,Maserati_GranTurismo_Convertible,GranTurismo Convertible,granturismo-convertible,2
-200028029,Maserati,maserati,Maserati_Quattroporte,Quattroporte,quattroporte,2
-200028029,Maserati,maserati,Maserati_Spyder,Spyder,spyder,2
-200043087,Maybach,maybach,Maybach_57,57,57,5
-200043087,Maybach,maybach,Maybach_62,62,62,5
-200043087,Maybach,maybach,Maybach_Landaulet,Landaulet,landaulet,5
-200004100,Mazda,mazda,Mazda_2,2,2,4
-200004100,Mazda,mazda,Mazda_3,3,3,4
-200004100,Mazda,mazda,Mazda_323,323,323,4
-200004100,Mazda,mazda,Mazda_5,5,5,4
-200004100,Mazda,mazda,Mazda_6,6,6,4
-200004100,Mazda,mazda,Mazda_626,626,626,4
-200004100,Mazda,mazda,Mazda_929,929,929,4
-200004100,Mazda,mazda,Mazda_B_Series,B-Series,b-series,4
-200004100,Mazda,mazda,Mazda_B_Series_Pickup,B-Series Pickup,b-series-pickup,4
-200004100,Mazda,mazda,Mazda_B_Series_Truck,B-Series Truck,b-series-truck,4
-200004100,Mazda,mazda,Mazda_CX_3,CX-3,cx-3,4
-200004100,Mazda,mazda,Mazda_CX_5,CX-5,cx-5,5
-200004100,Mazda,mazda,Mazda_CX_7,CX-7,cx-7,5
-200004100,Mazda,mazda,Mazda_CX_9,CX-9,cx-9,8
-200004100,Mazda,mazda,Mazda_MPV,MPV,mpv,8
-200004100,Mazda,mazda,Mazda_MX_3,MX-3,mx-3,4
-200004100,Mazda,mazda,Mazda_MX_5_Miata,MX-5 Miata,mx-5-miata,2
-200004100,Mazda,mazda,Mazda_MX_6,MX-6,mx-6,5
-200004100,Mazda,mazda,Mazda_Mazdaspeed_3,Mazdaspeed 3,mazdaspeed-3,5
-200004100,Mazda,mazda,Mazda_Mazdaspeed_6,Mazdaspeed 6,mazdaspeed-6,5
-200004100,Mazda,mazda,Mazda_Mazdaspeed_MX_5_Miata,Mazdaspeed MX-5 Miata,mazdaspeed-mx-5-miata,2
-200004100,Mazda,mazda,Mazda_Mazdaspeed_Protege,Mazdaspeed Protege,mazdaspeed-protege,5
-200004100,Mazda,mazda,Mazda_Millenia,Millenia,millenia,5
-200004100,Mazda,mazda,Mazda_Navajo,Navajo,navajo,5
-200004100,Mazda,mazda,Mazda_Protege,Protege,protege,5
-200004100,Mazda,mazda,Mazda_Protege5,Protege5,protege5,5
-200004100,Mazda,mazda,Mazda_RX_7,RX-7,rx-7,2
-200004100,Mazda,mazda,Mazda_RX_8,RX-8,rx-8,2
-200004100,Mazda,mazda,Mazda_Tribute,Tribute,tribute,5
-200004100,Mazda,mazda,Mazda_Tribute_Hybrid,Tribute Hybrid,tribute-hybrid,5
-200004100,Mazda,mazda,Mazda_Truck,Truck,truck,2
-200051397,McLaren,mclaren,McLaren_650S_Coupe,650S Coupe,650s-coupe,2
-200051397,McLaren,mclaren,McLaren_650S_Spider,650S Spider,650s-spider,2
-200051397,McLaren,mclaren,McLaren_MP4_12C,MP4-12C,mp4-12c,2
-200051397,McLaren,mclaren,McLaren_MP4_12C_Spider,MP4-12C Spider,mp4-12c-spider,2
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_190_Class,190-Class,190-class,5
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_300_Class,300-Class,300-class,5
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_350_Class,350-Class,350-class,5
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_400_Class,400-Class,400-class,5
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_420_Class,420-Class,420-class,5
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_500_Class,500-Class,500-class,2
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_560_Class,560-Class,560-class,2
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_600_Class,600-Class,600-class,5
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_AMG_GT,AMG GT,amg-gt,2
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_B_Class_Electric_Drive,B-Class Electric Drive,b-class-electric-drive,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_C_Class,C-Class,c-class,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_C36_AMG,C36 AMG,c36-amg,2
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_C43_AMG,C43 AMG,c43-amg,2
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_CL_Class,CL-Class,cl-class,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_CLA_Class,CLA-Class,cla-class,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_CLK_Class,CLK-Class,clk-class,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_CLS_Class,CLS-Class,cls-class,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_E_Class,E-Class,e-class,5
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_E55_AMG,E55 AMG,e55-amg,5
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_G_Class,G-Class,g-class,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_GL_Class,GL-Class,gl-class,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_GLA_Class,GLA-Class,gla-class,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_GLC_Class,GLC-Class,glc-class,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_GLE_Class,GLE-Class,gle-class,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_GLE_Class_Coupe,GLE-Class Coupe,gle-class-coupe,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_GLK_Class,GLK-Class,glk-class,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_M_Class,M-Class,m-class,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_ML55_AMG,ML55 AMG,ml55-amg,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_Maybach,Maybach,maybach,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_Metris,Metris,metris,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_R_Class,R-Class,r-class,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_S_Class,S-Class,s-class,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_SL_Class,SL-Class,sl-class,2
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_SLK_Class,SLK-Class,slk-class,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_SLR_McLaren,SLR McLaren,slr-mclaren,2
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_SLS_AMG,SLS AMG,sls-amg,2
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_SLS_AMG_GT,SLS AMG GT,sls-amg-gt,2
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_SLS_AMG_GT_Final_Edition,SLS AMG GT Final Edition,sls-amg-gt-final-edition,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_Sprinter,Sprinter,sprinter,4
-200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_Sprinter_Worker,Sprinter Worker,sprinter-worker,4
-200007711,Mercury,mercury,Mercury_Capri,Capri,capri,4
-200007711,Mercury,mercury,Mercury_Cougar,Cougar,cougar,4
-200007711,Mercury,mercury,Mercury_Grand_Marquis,Grand Marquis,grand-marquis,4
-200007711,Mercury,mercury,Mercury_Marauder,Marauder,marauder,4
-200007711,Mercury,mercury,Mercury_Mariner,Mariner,mariner,5
-200007711,Mercury,mercury,Mercury_Mariner_Hybrid,Mariner Hybrid,mariner-hybrid,5
-200007711,Mercury,mercury,Mercury_Milan,Milan,milan,4
-200007711,Mercury,mercury,Mercury_Milan_Hybrid,Milan Hybrid,milan-hybrid,4
-200007711,Mercury,mercury,Mercury_Montego,Montego,montego,4
-200007711,Mercury,mercury,Mercury_Monterey,Monterey,monterey,4
-200007711,Mercury,mercury,Mercury_Mountaineer,Mountaineer,mountaineer,4
-200007711,Mercury,mercury,Mercury_Mystique,Mystique,mystique,4
-200007711,Mercury,mercury,Mercury_Sable,Sable,sable,4
-200007711,Mercury,mercury,Mercury_Topaz,Topaz,topaz,4
-200007711,Mercury,mercury,Mercury_Tracer,Tracer,tracer,5
-200007711,Mercury,mercury,Mercury_Villager,Villager,villager,6
-200002915,Mitsubishi,mitsubishi,Mitsubishi_3000GT,3000GT,3000gt,4
-200002915,Mitsubishi,mitsubishi,Mitsubishi_Diamante,Diamante,diamante,4
-200002915,Mitsubishi,mitsubishi,Mitsubishi_Eclipse,Eclipse,eclipse,4
-200002915,Mitsubishi,mitsubishi,Mitsubishi_Eclipse_Spyder,Eclipse Spyder,eclipse-spyder,4
-200002915,Mitsubishi,mitsubishi,Mitsubishi_Endeavor,Endeavor,endeavor,5
-200002915,Mitsubishi,mitsubishi,Mitsubishi_Expo,Expo,expo,4
-200002915,Mitsubishi,mitsubishi,Mitsubishi_Galant,Galant,galant,4
-200002915,Mitsubishi,mitsubishi,Mitsubishi_Lancer,Lancer,lancer,4
-200002915,Mitsubishi,mitsubishi,Mitsubishi_Lancer_Evolution,Lancer Evolution,lancer-evolution,4
-200002915,Mitsubishi,mitsubishi,Mitsubishi_Lancer_Sportback,Lancer Sportback,lancer-sportback,4
-200002915,Mitsubishi,mitsubishi,Mitsubishi_Mighty_Max_Pickup,Mighty Max Pickup,mighty-max-pickup,2
-200002915,Mitsubishi,mitsubishi,Mitsubishi_Mirage,Mirage,mirage,4
-200002915,Mitsubishi,mitsubishi,Mitsubishi_Montero,Montero,montero,5
-200002915,Mitsubishi,mitsubishi,Mitsubishi_Montero_Sport,Montero Sport,montero-sport,5
-200002915,Mitsubishi,mitsubishi,Mitsubishi_Outlander,Outlander,outlander,5
-200002915,Mitsubishi,mitsubishi,Mitsubishi_Outlander_Sport,Outlander Sport,outlander-sport,5
-200002915,Mitsubishi,mitsubishi,Mitsubishi_Precis,Precis,precis,4
-200002915,Mitsubishi,mitsubishi,Mitsubishi_Raider,Raider,raider,4
-200002915,Mitsubishi,mitsubishi,Mitsubishi_Sigma,Sigma,sigma,4
-200002915,Mitsubishi,mitsubishi,Mitsubishi_Vanwagon,Vanwagon,vanwagon,5
-200002915,Mitsubishi,mitsubishi,Mitsubishi_i_MiEV,i-MiEV,i-miev,4
-200000201,Nissan,nissan,Nissan_200SX,200SX,200sx,4
-200000201,Nissan,nissan,Nissan_240SX,240SX,240sx,4
-200000201,Nissan,nissan,Nissan_300ZX,300ZX,300zx,4
-200000201,Nissan,nissan,Nissan_350Z,350Z,350z,4
-200000201,Nissan,nissan,Nissan_370Z,370Z,370z,4
-200000201,Nissan,nissan,Nissan_Altima,Altima,altima,4
-200000201,Nissan,nissan,Nissan_Altima_Hybrid,Altima Hybrid,altima-hybrid,4
-200000201,Nissan,nissan,Nissan_Armada,Armada,armada,5
-200000201,Nissan,nissan,Nissan_Axxess,Axxess,axxess,5
-200000201,Nissan,nissan,Nissan_Cube,Cube,cube,4
-200000201,Nissan,nissan,Nissan_Frontier,Frontier,frontier,4
-200000201,Nissan,nissan,Nissan_GT_R,GT-R,gt-r,4
-200000201,Nissan,nissan,Nissan_Juke,Juke,juke,5
-200000201,Nissan,nissan,Nissan_Leaf,Leaf,leaf,4
-200000201,Nissan,nissan,Nissan_Maxima,Maxima,maxima,4
-200000201,Nissan,nissan,Nissan_Murano,Murano,murano,4
-200000201,Nissan,nissan,Nissan_Murano_CrossCabriolet,Murano CrossCabriolet,murano-crosscabriolet,4
-200000201,Nissan,nissan,Nissan_NV,NV,nv,6
-200000201,Nissan,nissan,Nissan_NV_Cargo,NV Cargo,nv-cargo,7
-200000201,Nissan,nissan,Nissan_NV_Passenger,NV Passenger,nv-passenger,7
-200000201,Nissan,nissan,Nissan_NV200,NV200,nv200,7
-200000201,Nissan,nissan,Nissan_NX,NX,nx,4
-200000201,Nissan,nissan,Nissan_Pathfinder,Pathfinder,pathfinder,5
-200000201,Nissan,nissan,Nissan_Pulsar,Pulsar,pulsar,4
-200000201,Nissan,nissan,Nissan_Quest,Quest,quest,7
-200000201,Nissan,nissan,Nissan_Rogue,Rogue,rogue,5
-200000201,Nissan,nissan,Nissan_Rogue_Select,Rogue Select,rogue-select,5
-200000201,Nissan,nissan,Nissan_Sentra,Sentra,sentra,4
-200000201,Nissan,nissan,Nissan_Stanza,Stanza,stanza,4
-200000201,Nissan,nissan,Nissan_Titan,Titan,titan,4
-200000201,Nissan,nissan,Nissan_Titan_XD,Titan XD,titan-xd,4
-200000201,Nissan,nissan,Nissan_Truck,Truck,truck,5
-200000201,Nissan,nissan,Nissan_Van,Van,van,8
-200000201,Nissan,nissan,Nissan_Versa,Versa,versa,4
-200000201,Nissan,nissan,Nissan_Versa_Note,Versa Note,versa-note,5
-200000201,Nissan,nissan,Nissan_Xterra,Xterra,xterra,5
-200249342,Oldsmobile,oldsmobile,Oldsmobile_Achieva,Achieva,achieva,4
-200249342,Oldsmobile,oldsmobile,Oldsmobile_Alero,Alero,alero,4
-200249342,Oldsmobile,oldsmobile,Oldsmobile_Aurora,Aurora,aurora,4
-200249342,Oldsmobile,oldsmobile,Oldsmobile_Bravada,Bravada,bravada,4
-200249342,Oldsmobile,oldsmobile,Oldsmobile_Ciera,Ciera,ciera,4
-200249342,Oldsmobile,oldsmobile,Oldsmobile_Custom_Cruiser,Custom Cruiser,custom-cruiser,5
-200249342,Oldsmobile,oldsmobile,Oldsmobile_Cutlass,Cutlass,cutlass,4
-200249342,Oldsmobile,oldsmobile,Oldsmobile_Cutlass_Calais,Cutlass Calais,cutlass-calais,4
-200249342,Oldsmobile,oldsmobile,Oldsmobile_Cutlass_Ciera,Cutlass Ciera,cutlass-ciera,4
-200249342,Oldsmobile,oldsmobile,Oldsmobile_Cutlass_Supreme,Cutlass Supreme,cutlass-supreme,4
-200249342,Oldsmobile,oldsmobile,Oldsmobile_Eighty_Eight,Eighty-Eight,eighty-eight,4
-200249342,Oldsmobile,oldsmobile,Oldsmobile_Eighty_Eight_Royale,Eighty-Eight Royale,eighty-eight-royale,4
-200249342,Oldsmobile,oldsmobile,Oldsmobile_Intrigue,Intrigue,intrigue,4
-200249342,Oldsmobile,oldsmobile,Oldsmobile_LSS,LSS,lss,4
-200249342,Oldsmobile,oldsmobile,Oldsmobile_Ninety_Eight,Ninety-Eight,ninety-eight,4
-200249342,Oldsmobile,oldsmobile,Oldsmobile_Regency,Regency,regency,4
-200249342,Oldsmobile,oldsmobile,Oldsmobile_Silhouette,Silhouette,silhouette,6
-200249342,Oldsmobile,oldsmobile,Oldsmobile_Toronado,Toronado,toronado,4
-200194838,Panoz,panoz,Panoz_Esperante,Esperante,esperante,2
-200339126,Plymouth,plymouth,Plymouth_Acclaim,Acclaim,acclaim,4
-200339126,Plymouth,plymouth,Plymouth_Breeze,Breeze,breeze,4
-200339126,Plymouth,plymouth,Plymouth_Colt,Colt,colt,4
-200339126,Plymouth,plymouth,Plymouth_Grand_Voyager,Grand Voyager,grand-voyager,7
-200339126,Plymouth,plymouth,Plymouth_Horizon,Horizon,horizon,4
-200339126,Plymouth,plymouth,Plymouth_Laser,Laser,laser,4
-200339126,Plymouth,plymouth,Plymouth_Neon,Neon,neon,4
-200339126,Plymouth,plymouth,Plymouth_Prowler,Prowler,prowler,2
-200339126,Plymouth,plymouth,Plymouth_Sundance,Sundance,sundance,4
-200339126,Plymouth,plymouth,Plymouth_Voyager,Voyager,voyager,7
-200002634,Pontiac,pontiac,Pontiac_6000,6000,6000,4
-200002634,Pontiac,pontiac,Pontiac_Aztek,Aztek,aztek,5
-200002634,Pontiac,pontiac,Pontiac_Bonneville,Bonneville,bonneville,4
-200002634,Pontiac,pontiac,Pontiac_Firebird,Firebird,firebird,4
-200002634,Pontiac,pontiac,Pontiac_G3,G3,g3,4
-200002634,Pontiac,pontiac,Pontiac_G5,G5,g5,4
-200002634,Pontiac,pontiac,Pontiac_G6,G6,g6,4
-200002634,Pontiac,pontiac,Pontiac_G8,G8,g8,4
-200002634,Pontiac,pontiac,Pontiac_GTO,GTO,gto,4
-200002634,Pontiac,pontiac,Pontiac_Grand_Am,Grand Am,grand-am,4
-200002634,Pontiac,pontiac,Pontiac_Grand_Prix,Grand Prix,grand-prix,4
-200002634,Pontiac,pontiac,Pontiac_Le_Mans,Le Mans,le-mans,4
-200002634,Pontiac,pontiac,Pontiac_Montana,Montana,montana,5
-200002634,Pontiac,pontiac,Pontiac_Montana_SV6,Montana SV6,montana-sv6,5
-200002634,Pontiac,pontiac,Pontiac_Solstice,Solstice,solstice,4
-200002634,Pontiac,pontiac,Pontiac_Sunbird,Sunbird,sunbird,4
-200002634,Pontiac,pontiac,Pontiac_Sunfire,Sunfire,sunfire,4
-200002634,Pontiac,pontiac,Pontiac_Torrent,Torrent,torrent,5
-200002634,Pontiac,pontiac,Pontiac_Trans_Sport,Trans Sport,trans-sport,7
-200002634,Pontiac,pontiac,Pontiac_Vibe,Vibe,vibe,5
-200000886,Porsche,porsche,Porsche_911,911,911,2
-200000886,Porsche,porsche,Porsche_918_Spyder,918 Spyder,918-spyder,2
-200000886,Porsche,porsche,Porsche_928,928,928,4
-200000886,Porsche,porsche,Porsche_944,944,944,4
-200000886,Porsche,porsche,Porsche_968,968,968,4
-200000886,Porsche,porsche,Porsche_Boxster,Boxster,boxster,2
-200000886,Porsche,porsche,Porsche_Carrera_GT,Carrera GT,carrera-gt,2
-200000886,Porsche,porsche,Porsche_Cayenne,Cayenne,cayenne,5
-200000886,Porsche,porsche,Porsche_Cayman,Cayman,cayman,2
-200000886,Porsche,porsche,Porsche_Cayman_S,Cayman S,cayman-s,2
-200000886,Porsche,porsche,Porsche_Macan,Macan,macan,5
-200000886,Porsche,porsche,Porsche_Panamera,Panamera,panamera,4
-200393150,Ram,ram,Ram_1500,1500,1500,4
-200393150,Ram,ram,Ram_2500,2500,2500,4
-200393150,Ram,ram,Ram_3500,3500,3500,4
-200393150,Ram,ram,Ram_C/V_Cargo_Van,C/V Cargo Van,cv-cargo-van,7
-200393150,Ram,ram,Ram_C/V_Tradesman,C/V Tradesman,cv-tradesman,8
-200393150,Ram,ram,Ram_CV_Tradesman,CV Tradesman,cv-tradesman,8
-200393150,Ram,ram,Ram_Dakota,Dakota,dakota,4
-200393150,Ram,ram,Ram_Promaster_Cargo_Van,Promaster Cargo Van,promaster-cargo-van,8
-200393150,Ram,ram,Ram_Promaster_City,Promaster City,promaster-city,7
-200393150,Ram,ram,Ram_Promaster_Window_Van,Promaster Window Van,promaster-window-van,8
-200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Corniche,Corniche,corniche,4
-200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Dawn,Dawn,dawn,4
-200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Ghost,Ghost,ghost,4
-200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Ghost_Series_II,Ghost Series II,ghost-series-ii,4
-200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Park_Ward,Park Ward,park-ward,4
-200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Phantom,Phantom,phantom,5
-200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Phantom_Coupe,Phantom Coupe,phantom-coupe,4
-200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Phantom_Drophead_Coupe,Phantom Drophead Coupe,phantom-drophead-coupe,4
-200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Silver_Seraph,Silver Seraph,silver-seraph,5
-200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Wraith,Wraith,wraith,4
-200074504,Saab,saab,Saab_9_2X,9-2X,9-2x,4
-200074504,Saab,saab,Saab_9_3,3-Sep,3-Sep,4
-200074504,Saab,saab,Saab_9_3_Griffin,9-3 Griffin,9-3-griffin,5
-200074504,Saab,saab,Saab_9_4X,9-4X,9-4x,5
-200074504,Saab,saab,Saab_9_5,5-Sep,5-Sep,4
-200074504,Saab,saab,Saab_9_7X,9-7X,9-7x,5
-200074504,Saab,saab,Saab_900,900,900,4
-200074504,Saab,saab,Saab_9000,9000,9000,4
-200004446,Saturn,saturn,Saturn_Astra,Astra,astra,4
-200004446,Saturn,saturn,Saturn_Aura,Aura,aura,4
-200004446,Saturn,saturn,Saturn_Aura_Hybrid,Aura Hybrid,aura-hybrid,4
-200004446,Saturn,saturn,Saturn_ION,ION,ion,4
-200004446,Saturn,saturn,Saturn_L_Series,L-Series,l-series,4
-200004446,Saturn,saturn,Saturn_L300,L300,l300,4
-200004446,Saturn,saturn,Saturn_Outlook,Outlook,outlook,5
-200004446,Saturn,saturn,Saturn_Relay,Relay,relay,5
-200004446,Saturn,saturn,Saturn_S_Series,S-Series,s-series,4
-200004446,Saturn,saturn,Saturn_Sky,Sky,sky,2
-200004446,Saturn,saturn,Saturn_VUE,VUE,vue,5
-200004446,Saturn,saturn,Saturn_VUE_Hybrid,VUE Hybrid,vue-hybrid,5
-200006515,Scion,scion,Scion_FR_S,FR-S,fr-s,4
-200006515,Scion,scion,Scion_iA,iA,ia,4
-200006515,Scion,scion,Scion_iM,iM,im,4
-200006515,Scion,scion,Scion_iQ,iQ,iq,2
-200006515,Scion,scion,Scion_tC,tC,tc,4
-200006515,Scion,scion,Scion_xA,xA,xa,4
-200006515,Scion,scion,Scion_xB,xB,xb,4
-200006515,Scion,scion,Scion_xD,xD,xd,5
-200046567,Spyker,spyker,Spyker_C8,C8,c8,2
-200004491,Subaru,subaru,Subaru_B9_Tribeca,B9 Tribeca,b9-tribeca,5
-200004491,Subaru,subaru,Subaru_BRZ,BRZ,brz,4
-200004491,Subaru,subaru,Subaru_Baja,Baja,baja,5
-200004491,Subaru,subaru,Subaru_Crosstrek,Crosstrek,crosstrek,4
-200004491,Subaru,subaru,Subaru_Forester,Forester,forester,5
-200004491,Subaru,subaru,Subaru_Impreza,Impreza,impreza,4
-200004491,Subaru,subaru,Subaru_Impreza_WRX,Impreza WRX,impreza-wrx,4
-200004491,Subaru,subaru,Subaru_Justy,Justy,justy,4
-200004491,Subaru,subaru,Subaru_Legacy,Legacy,legacy,4
-200004491,Subaru,subaru,Subaru_Loyale,Loyale,loyale,5
-200004491,Subaru,subaru,Subaru_Outback,Outback,outback,7
-200004491,Subaru,subaru,Subaru_SVX,SVX,svx,4
-200004491,Subaru,subaru,Subaru_Tribeca,Tribeca,tribeca,5
-200004491,Subaru,subaru,Subaru_WRX,WRX,wrx,4
-200004491,Subaru,subaru,Subaru_XT,XT,xt,4
-200004491,Subaru,subaru,Subaru_XV_Crosstrek,XV Crosstrek,xv-crosstrek,5
-200001853,Suzuki,suzuki,Suzuki_Aerio,Aerio,aerio,4
-200001853,Suzuki,suzuki,Suzuki_Equator,Equator,equator,4
-200001853,Suzuki,suzuki,Suzuki_Esteem,Esteem,esteem,4
-200001853,Suzuki,suzuki,Suzuki_Forenza,Forenza,forenza,5
-200001853,Suzuki,suzuki,Suzuki_Grand_Vitara,Grand Vitara,grand-vitara,5
-200001853,Suzuki,suzuki,Suzuki_Kizashi,Kizashi,kizashi,4
-200001853,Suzuki,suzuki,Suzuki_Reno,Reno,reno,4
-200001853,Suzuki,suzuki,Suzuki_SX4,SX4,sx4,5
-200001853,Suzuki,suzuki,Suzuki_Samurai,Samurai,samurai,4
-200001853,Suzuki,suzuki,Suzuki_Sidekick,Sidekick,sidekick,4
-200001853,Suzuki,suzuki,Suzuki_Swift,Swift,swift,4
-200001853,Suzuki,suzuki,Suzuki_Verona,Verona,verona,4
-200001853,Suzuki,suzuki,Suzuki_Vitara,Vitara,vitara,5
-200001853,Suzuki,suzuki,Suzuki_X_90,X-90,x-90,2
-200001853,Suzuki,suzuki,Suzuki_XL_7,XL-7,xl-7,6
-200001853,Suzuki,suzuki,Suzuki_XL7,XL7,xl7,6
-200018920,Tesla,tesla,Tesla_Model_S,Model S,model-s,4
-200018920,Tesla,tesla,Tesla_Model_X,Model X,model-x,6
-200018920,Tesla,tesla,Tesla_Roadster,Roadster,roadster,2
-200003381,Toyota,toyota,Toyota_4Runner,4Runner,4runner,5
-200003381,Toyota,toyota,Toyota_Avalon,Avalon,avalon,4
-200003381,Toyota,toyota,Toyota_Avalon_Hybrid,Avalon Hybrid,avalon-hybrid,4
-200003381,Toyota,toyota,Toyota_Camry,Camry,camry,5
-200003381,Toyota,toyota,Toyota_Camry_Hybrid,Camry Hybrid,camry-hybrid,5
-200003381,Toyota,toyota,Toyota_Camry_Solara,Camry Solara,camry-solara,4
-200003381,Toyota,toyota,Toyota_Celica,Celica,celica,4
-200003381,Toyota,toyota,Toyota_Corolla,Corolla,corolla,4
-200003381,Toyota,toyota,Toyota_Cressida,Cressida,cressida,4
-200003381,Toyota,toyota,Toyota_ECHO,ECHO,echo,4
-200003381,Toyota,toyota,Toyota_FJ_Cruiser,FJ Cruiser,fj-cruiser,4
-200003381,Toyota,toyota,Toyota_Highlander,Highlander,highlander,7
-200003381,Toyota,toyota,Toyota_Highlander_Hybrid,Highlander Hybrid,highlander-hybrid,7
-200003381,Toyota,toyota,Toyota_Land_Cruiser,Land Cruiser,land-cruiser,5
-200003381,Toyota,toyota,Toyota_MR2,MR2,mr2,2
-200003381,Toyota,toyota,Toyota_MR2_Spyder,MR2 Spyder,mr2-spyder,2
-200003381,Toyota,toyota,Toyota_Matrix,Matrix,matrix,4
-200003381,Toyota,toyota,Toyota_Mirai,Mirai,mirai,4
-200003381,Toyota,toyota,Toyota_Paseo,Paseo,paseo,4
-200003381,Toyota,toyota,Toyota_Pickup,Pickup,pickup,2
-200003381,Toyota,toyota,Toyota_Previa,Previa,previa,7
-200003381,Toyota,toyota,Toyota_Prius,Prius,prius,4
-200003381,Toyota,toyota,Toyota_Prius_Plug_in,Prius Plug-in,prius-plug-in,4
-200003381,Toyota,toyota,Toyota_Prius_c,Prius c,prius-c,4
-200003381,Toyota,toyota,Toyota_Prius_v,Prius v,prius-v,4
-200003381,Toyota,toyota,Toyota_RAV4,RAV4,rav4,5
-200003381,Toyota,toyota,Toyota_RAV4_EV,RAV4 EV,rav4-ev,5
-200003381,Toyota,toyota,Toyota_RAV4_Hybrid,RAV4 Hybrid,rav4-hybrid,5
-200003381,Toyota,toyota,Toyota_Sequoia,Sequoia,sequoia,8
-200003381,Toyota,toyota,Toyota_Sienna,Sienna,sienna,4
-200003381,Toyota,toyota,Toyota_Supra,Supra,supra,4
-200003381,Toyota,toyota,Toyota_T100,T100,t100,3
-200003381,Toyota,toyota,Toyota_Tacoma,Tacoma,tacoma,5
-200003381,Toyota,toyota,Toyota_Tercel,Tercel,tercel,4
-200003381,Toyota,toyota,Toyota_Tundra,Tundra,tundra,5
-200003381,Toyota,toyota,Toyota_Venza,Venza,venza,7
-200003381,Toyota,toyota,Toyota_Yaris,Yaris,yaris,5
-200000238,Volkswagen,volkswagen,Volkswagen_Beetle,Beetle,beetle,4
-200000238,Volkswagen,volkswagen,Volkswagen_Beetle_Convertible,Beetle Convertible,beetle-convertible,4
-200000238,Volkswagen,volkswagen,Volkswagen_CC,CC,cc,4
-200000238,Volkswagen,volkswagen,Volkswagen_Cabrio,Cabrio,cabrio,4
-200000238,Volkswagen,volkswagen,Volkswagen_Cabriolet,Cabriolet,cabriolet,4
-200000238,Volkswagen,volkswagen,Volkswagen_Corrado,Corrado,corrado,4
-200000238,Volkswagen,volkswagen,Volkswagen_Eos,Eos,eos,4
-200000238,Volkswagen,volkswagen,Volkswagen_EuroVan,EuroVan,eurovan,8
-200000238,Volkswagen,volkswagen,Volkswagen_Fox,Fox,fox,4
-200000238,Volkswagen,volkswagen,Volkswagen_GLI,GLI,gli,4
-200000238,Volkswagen,volkswagen,Volkswagen_GTI,GTI,gti,4
-200000238,Volkswagen,volkswagen,Volkswagen_Golf,Golf,golf,4
-200000238,Volkswagen,volkswagen,Volkswagen_Golf_GTI,Golf GTI,golf-gti,4
-200000238,Volkswagen,volkswagen,Volkswagen_Golf_R,Golf R,golf-r,4
-200000238,Volkswagen,volkswagen,Volkswagen_Golf_SportWagen,Golf SportWagen,golf-sportwagen,5
-200000238,Volkswagen,volkswagen,Volkswagen_Jetta,Jetta,jetta,4
-200000238,Volkswagen,volkswagen,Volkswagen_Jetta_GLI,Jetta GLI,jetta-gli,4
-200000238,Volkswagen,volkswagen,Volkswagen_Jetta_Hybrid,Jetta Hybrid,jetta-hybrid,4
-200000238,Volkswagen,volkswagen,Volkswagen_Jetta_SportWagen,Jetta SportWagen,jetta-sportwagen,4
-200000238,Volkswagen,volkswagen,Volkswagen_New_Beetle,New Beetle,new-beetle,4
-200000238,Volkswagen,volkswagen,Volkswagen_Passat,Passat,passat,4
-200000238,Volkswagen,volkswagen,Volkswagen_Phaeton,Phaeton,phaeton,4
-200000238,Volkswagen,volkswagen,Volkswagen_R32,R32,r32,4
-200000238,Volkswagen,volkswagen,Volkswagen_Rabbit,Rabbit,rabbit,6
-200000238,Volkswagen,volkswagen,Volkswagen_Routan,Routan,routan,7
-200000238,Volkswagen,volkswagen,Volkswagen_Tiguan,Tiguan,tiguan,5
-200000238,Volkswagen,volkswagen,Volkswagen_Touareg,Touareg,touareg,5
-200000238,Volkswagen,volkswagen,Volkswagen_Touareg_2,Touareg 2,touareg-2,5
-200000238,Volkswagen,volkswagen,Volkswagen_Vanagon,Vanagon,vanagon,8
-200000238,Volkswagen,volkswagen,Volkswagen_e_Golf,e-Golf,e-golf,4
-200010382,Volvo,volvo,Volvo_240,240,240,5
-200010382,Volvo,volvo,Volvo_740,740,740,5
-200010382,Volvo,volvo,Volvo_760,760,760,5
-200010382,Volvo,volvo,Volvo_780,780,780,5
-200010382,Volvo,volvo,Volvo_850,850,850,5
-200010382,Volvo,volvo,Volvo_940,940,940,5
-200010382,Volvo,volvo,Volvo_960,960,960,5
-200010382,Volvo,volvo,Volvo_C30,C30,c30,4
-200010382,Volvo,volvo,Volvo_C70,C70,c70,4
-200010382,Volvo,volvo,Volvo_Coupe,Coupe,coupe,4
-200010382,Volvo,volvo,Volvo_S40,S40,s40,4
-200010382,Volvo,volvo,Volvo_S60,S60,s60,4
-200010382,Volvo,volvo,Volvo_S70,S70,s70,4
-200010382,Volvo,volvo,Volvo_S80,S80,s80,4
-200010382,Volvo,volvo,Volvo_S90,S90,s90,4
-200010382,Volvo,volvo,Volvo_V40,V40,v40,4
-200010382,Volvo,volvo,Volvo_V50,V50,v50,4
-200010382,Volvo,volvo,Volvo_V60,V60,v60,5
-200010382,Volvo,volvo,Volvo_V60_Cross_Country,V60 Cross Country,v60-cross-country,5
-200010382,Volvo,volvo,Volvo_V70,V70,v70,5
-200010382,Volvo,volvo,Volvo_V90,V90,v90,5
-200010382,Volvo,volvo,Volvo_XC,XC,xc,5
-200010382,Volvo,volvo,Volvo_XC60,XC60,xc60,5
-200010382,Volvo,volvo,Volvo_XC70,XC70,xc70,5
-200010382,Volvo,volvo,Volvo_XC90,XC90,xc90,5
-200038885,smart,smart,smart_fortwo,fortwo,fortwo,2
+makeId,name,niceName,mode:id,model:name,model:niceName,PI,AI
+200347864,AM General,am-general,AM_General_Hummer,Hummer,hummer,4,5
+200002038,Acura,acura,Acura_CL,CL,cl,4,5
+200002038,Acura,acura,Acura_ILX,ILX,ilx,5,5
+200002038,Acura,acura,Acura_ILX_Hybrid,ILX Hybrid,ilx-hybrid,5,5
+200002038,Acura,acura,Acura_Integra,Integra,integra,4,5
+200002038,Acura,acura,Acura_Legend,Legend,legend,4,5
+200002038,Acura,acura,Acura_MDX,MDX,mdx,8,5
+200002038,Acura,acura,Acura_NSX,NSX,nsx,5,5
+200002038,Acura,acura,Acura_RDX,RDX,rdx,5,5
+200002038,Acura,acura,Acura_RL,RL,rl,5,5
+200002038,Acura,acura,Acura_RLX,RLX,rlx,5,5
+200002038,Acura,acura,Acura_RSX,RSX,rsx,5,5
+200002038,Acura,acura,Acura_SLX,SLX,slx,4,5
+200002038,Acura,acura,Acura_TL,TL,tl,4,5
+200002038,Acura,acura,Acura_TLX,TLX,tlx,4,5
+200002038,Acura,acura,Acura_TSX,TSX,tsx,4,5
+200002038,Acura,acura,Acura_TSX_Sport_Wagon,TSX Sport Wagon,tsx-sport-wagon,5,5
+200002038,Acura,acura,Acura_Vigor,Vigor,vigor,5,5
+200002038,Acura,acura,Acura_ZDX,ZDX,zdx,5,5
+200464140,Alfa Romeo,alfa-romeo,Alfa_Romeo_4C,4C,4c,4,5
+200001769,Aston Martin,aston-martin,Aston_Martin_DB7,DB7,db7,2,5
+200001769,Aston Martin,aston-martin,Aston_Martin_DB9,DB9,db9,2,5
+200001769,Aston Martin,aston-martin,Aston_Martin_DB9_GT,DB9 GT,db9-gt,2,5
+200001769,Aston Martin,aston-martin,Aston_Martin_DBS,DBS,dbs,2,5
+200001769,Aston Martin,aston-martin,Aston_Martin_Rapide,Rapide,rapide,2,5
+200001769,Aston Martin,aston-martin,Aston_Martin_Rapide_S,Rapide S,rapide-s,2,5
+200001769,Aston Martin,aston-martin,Aston_Martin_V12_Vanquish,V12 Vanquish,v12-vanquish,2,5
+200001769,Aston Martin,aston-martin,Aston_Martin_V12_Vantage,V12 Vantage,v12-vantage,2,5
+200001769,Aston Martin,aston-martin,Aston_Martin_V12_Vantage_S,V12 Vantage S,v12-vantage-s,2,5
+200001769,Aston Martin,aston-martin,Aston_Martin_V8_Vantage,V8 Vantage,v8-vantage,2,5
+200001769,Aston Martin,aston-martin,Aston_Martin_Vanquish,Vanquish,vanquish,2,5
+200001769,Aston Martin,aston-martin,Aston_Martin_Virage,Virage,virage,2,5
+200000001,Audi,audi,Audi_100,100,100,4,5
+200000001,Audi,audi,Audi_200,200,200,4,5
+200000001,Audi,audi,Audi_80,80,80,4,5
+200000001,Audi,audi,Audi_90,90,90,4,5
+200000001,Audi,audi,Audi_A3,A3,a3,4,5
+200000001,Audi,audi,Audi_A3_Sportback_e_tron,A3 Sportback e-tron,a3-sportback-e-tron,5,5
+200000001,Audi,audi,Audi_A4,A4,a4,4,5
+200000001,Audi,audi,Audi_A5,A5,a5,5,5
+200000001,Audi,audi,Audi_A6,A6,a6,5,5
+200000001,Audi,audi,Audi_A7,A7,a7,5,5
+200000001,Audi,audi,Audi_A8,A8,a8,5,5
+200000001,Audi,audi,Audi_Cabriolet,Cabriolet,cabriolet,4,5
+200000001,Audi,audi,Audi_Coupe,Coupe,coupe,4,5
+200000001,Audi,audi,Audi_Q3,Q3,q3,4,5
+200000001,Audi,audi,Audi_Q5,Q5,q5,5,5
+200000001,Audi,audi,Audi_Q7,Q7,q7,5,5
+200000001,Audi,audi,Audi_R8,R8,r8,2,5
+200000001,Audi,audi,Audi_RS_4,RS 4,rs-4,4,5
+200000001,Audi,audi,Audi_RS_5,RS 5,rs-5,5,5
+200000001,Audi,audi,Audi_RS_6,RS 6,rs-6,5,5
+200000001,Audi,audi,Audi_RS_7,RS 7,rs-7,5,5
+200000001,Audi,audi,Audi_S3,S3,s3,4,5
+200000001,Audi,audi,Audi_S4,S4,s4,4,5
+200000001,Audi,audi,Audi_S5,S5,s5,5,5
+200000001,Audi,audi,Audi_S6,S6,s6,5,5
+200000001,Audi,audi,Audi_S7,S7,s7,5,5
+200000001,Audi,audi,Audi_S8,S8,s8,5,5
+200000001,Audi,audi,Audi_SQ5,SQ5,sq5,5,5
+200000001,Audi,audi,Audi_TT,TT,tt,2,5
+200000001,Audi,audi,Audi_TT_RS,TT RS,tt-rs,2,5
+200000001,Audi,audi,Audi_TTS,TTS,tts,2,5
+200000001,Audi,audi,Audi_V8,V8,v8,5,5
+200000001,Audi,audi,Audi_allroad,allroad,allroad,4,5
+200000001,Audi,audi,Audi_allroad_quattro,allroad quattro,allroad-quattro,4,5
+200000081,BMW,bmw,BMW_1_Series,1 Series,1-series,4,5
+200000081,BMW,bmw,BMW_1_Series_M,1 Series M,1-series-m,4,5
+200000081,BMW,bmw,BMW_2_Series,2 Series,2-series,4,5
+200000081,BMW,bmw,BMW_3_Series,3 Series,3-series,4,5
+200000081,BMW,bmw,BMW_3_Series_Gran_Turismo,3 Series Gran Turismo,3-series-gran-turismo,4,5
+200000081,BMW,bmw,BMW_3_Series_eDrive,3 Series eDrive,3-series-edrive,4,5
+200000081,BMW,bmw,BMW_4_Series,4 Series,4-series,4,5
+200000081,BMW,bmw,BMW_4_Series_Gran_Coupe,4 Series Gran Coupe,4-series-gran-coupe,4,5
+200000081,BMW,bmw,BMW_5_Series,5 Series,5-series,55,5
+200000081,BMW,bmw,BMW_5_Series_Gran_Turismo,5 Series Gran Turismo,5-series-gran-turismo,5,5
+200000081,BMW,bmw,BMW_6_Series,6 Series,6-series,2,5
+200000081,BMW,bmw,BMW_6_Series_Gran_Coupe,6 Series Gran Coupe,6-series-gran-coupe,5,5
+200000081,BMW,bmw,BMW_7_Series,7 Series,7-series,5,5
+200000081,BMW,bmw,BMW_8_Series,8 Series,8-series,4,5
+200000081,BMW,bmw,BMW_ALPINA_B6_Gran_Coupe,ALPINA B6 Gran Coupe,alpina-b6-gran-coupe,5,5
+200000081,BMW,bmw,BMW_ALPINA_B7,ALPINA B7,alpina-b7,5,5
+200000081,BMW,bmw,BMW_ActiveHybrid_5,ActiveHybrid 5,activehybrid-5,5,5
+200000081,BMW,bmw,BMW_ActiveHybrid_7,ActiveHybrid 7,activehybrid-7,5,5
+200000081,BMW,bmw,BMW_ActiveHybrid_X6,ActiveHybrid X6,activehybrid-x6,5,5
+200000081,BMW,bmw,BMW_Alpina,Alpina,alpina,4,5
+200000081,BMW,bmw,BMW_M,M,m,4,5
+200000081,BMW,bmw,BMW_M2,M2,m2,4,5
+200000081,BMW,bmw,BMW_M3,M3,m3,4,5
+200000081,BMW,bmw,BMW_M4,M4,m4,4,5
+200000081,BMW,bmw,BMW_M5,M5,m5,5,5
+200000081,BMW,bmw,BMW_M6,M6,m6,2,5
+200000081,BMW,bmw,BMW_M6_Gran_Coupe,M6 Gran Coupe,m6-gran-coupe,4,5
+200000081,BMW,bmw,BMW_X1,X1,x1,5,5
+200000081,BMW,bmw,BMW_X3,X3,x3,5,5
+200000081,BMW,bmw,BMW_X4,X4,x4,5,5
+200000081,BMW,bmw,BMW_X5,X5,x5,5,5
+200000081,BMW,bmw,BMW_X5_M,X5 M,x5-m,5,5
+200000081,BMW,bmw,BMW_X5_eDrive,X5 eDrive,x5-edrive,5,5
+200000081,BMW,bmw,BMW_X6,X6,x6,5,5
+200000081,BMW,bmw,BMW_X6_M,X6 M,x6-m,5,5
+200000081,BMW,bmw,BMW_Z3,Z3,z3,2,5
+200000081,BMW,bmw,BMW_Z4,Z4,z4,2,5
+200000081,BMW,bmw,BMW_Z4_M,Z4 M,z4-m,2,5
+200000081,BMW,bmw,BMW_Z8,Z8,z8,2,5
+200000081,BMW,bmw,BMW_i3,i3,i3,2,5
+200000081,BMW,bmw,BMW_i8,i8,i8,4,5
+200005848,Bentley,bentley,Bentley_Arnage,Arnage,arnage,4,5
+200005848,Bentley,bentley,Bentley_Azure,Azure,azure,4,5
+200005848,Bentley,bentley,Bentley_Azure_T,Azure T,azure-t,4,5
+200005848,Bentley,bentley,Bentley_Brooklands,Brooklands,brooklands,5,5
+200005848,Bentley,bentley,Bentley_Continental,Continental,continental,5,5
+200005848,Bentley,bentley,Bentley_Continental_Flying_Spur,Continental Flying Spur,continental-flying-spur,5,5
+200005848,Bentley,bentley,Bentley_Continental_Flying_Spur_Speed,Continental Flying Spur Speed,continental-flying-spur-speed,5,5
+200005848,Bentley,bentley,Bentley_Continental_GT,Continental GT,continental-gt,5,5
+200005848,Bentley,bentley,Bentley_Continental_GT_Speed,Continental GT Speed,continental-gt-speed,5,5
+200005848,Bentley,bentley,Bentley_Continental_GT_Speed_Convertible,Continental GT Speed Convertible,continental-gt-speed-convertible,5,5
+200005848,Bentley,bentley,Bentley_Continental_GTC,Continental GTC,continental-gtc,5,5
+200005848,Bentley,bentley,Bentley_Continental_GTC_Speed,Continental GTC Speed,continental-gtc-speed,5,5
+200005848,Bentley,bentley,Bentley_Continental_Supersports,Continental Supersports,continental-supersports,5,5
+200005848,Bentley,bentley,Bentley_Continental_Supersports_Convertible,Continental Supersports Convertible,continental-supersports-convertible,5,5
+200005848,Bentley,bentley,Bentley_Flying_Spur,Flying Spur,flying-spur,5,5
+200005848,Bentley,bentley,Bentley_Mulsanne,Mulsanne,mulsanne,5,5
+200005848,Bentley,bentley,Bentley_Supersports_Convertible_ISR,Supersports Convertible ISR,supersports-convertible-isr,5,5
+200030397,Bugatti,bugatti,Bugatti_Veyron_16.4,Veyron 16.4,veyron-164,4,5
+200006659,Buick,buick,Buick_Cascada,Cascada,cascada,5,5
+200006659,Buick,buick,Buick_Century,Century,century,5,5
+200006659,Buick,buick,Buick_Electra,Electra,electra,5,5
+200006659,Buick,buick,Buick_Enclave,Enclave,enclave,5,5
+200006659,Buick,buick,Buick_Encore,Encore,encore,5,5
+200006659,Buick,buick,Buick_Envision,Envision,envision,5,5
+200006659,Buick,buick,Buick_Estate_Wagon,Estate Wagon,estate-wagon,6,5
+200006659,Buick,buick,Buick_LaCrosse,LaCrosse,lacrosse,5,5
+200006659,Buick,buick,Buick_LeSabre,LeSabre,lesabre,5,5
+200006659,Buick,buick,Buick_Lucerne,Lucerne,lucerne,5,5
+200006659,Buick,buick,Buick_Park_Avenue,Park Avenue,park-avenue,5,5
+200006659,Buick,buick,Buick_Rainier,Rainier,rainier,6,5
+200006659,Buick,buick,Buick_Reatta,Reatta,reatta,5,5
+200006659,Buick,buick,Buick_Regal,Regal,regal,5,5
+200006659,Buick,buick,Buick_Rendezvous,Rendezvous,rendezvous,5,5
+200006659,Buick,buick,Buick_Riviera,Riviera,riviera,5,5
+200006659,Buick,buick,Buick_Roadmaster,Roadmaster,roadmaster,5,5
+200006659,Buick,buick,Buick_Skylark,Skylark,skylark,5,5
+200006659,Buick,buick,Buick_Terraza,Terraza,terraza,5,5
+200006659,Buick,buick,Buick_Verano,Verano,verano,5,5
+200001663,Cadillac,cadillac,Cadillac_ATS,ATS,ats,4,5
+200001663,Cadillac,cadillac,Cadillac_ATS_Coupe,ATS Coupe,ats-coupe,4,5
+200001663,Cadillac,cadillac,Cadillac_ATS_V,ATS-V,ats-v,4,5
+200001663,Cadillac,cadillac,Cadillac_Allante,Allante,allante,5,5
+200001663,Cadillac,cadillac,Cadillac_Brougham,Brougham,brougham,6,5
+200001663,Cadillac,cadillac,Cadillac_CT6,CT6,ct6,4,5
+200001663,Cadillac,cadillac,Cadillac_CTS,CTS,cts,4,5
+200001663,Cadillac,cadillac,Cadillac_CTS_Coupe,CTS Coupe,cts-coupe,4,5
+200001663,Cadillac,cadillac,Cadillac_CTS_Wagon,CTS Wagon,cts-wagon,6,5
+200001663,Cadillac,cadillac,Cadillac_CTS_V,CTS-V,cts-v,4,5
+200001663,Cadillac,cadillac,Cadillac_CTS_V_Coupe,CTS-V Coupe,cts-v-coupe,4,5
+200001663,Cadillac,cadillac,Cadillac_CTS_V_Wagon,CTS-V Wagon,cts-v-wagon,6,5
+200001663,Cadillac,cadillac,Cadillac_Catera,Catera,catera,5,5
+200001663,Cadillac,cadillac,Cadillac_DTS,DTS,dts,5,5
+200001663,Cadillac,cadillac,Cadillac_DeVille,DeVille,deville,5,5
+200001663,Cadillac,cadillac,Cadillac_ELR,ELR,elr,5,5
+200001663,Cadillac,cadillac,Cadillac_Eldorado,Eldorado,eldorado,5,5
+200001663,Cadillac,cadillac,Cadillac_Escalade,Escalade,escalade,8,5
+200001663,Cadillac,cadillac,Cadillac_Escalade_ESV,Escalade ESV,escalade-esv,8,5
+200001663,Cadillac,cadillac,Cadillac_Escalade_EXT,Escalade EXT,escalade-ext,8,5
+200001663,Cadillac,cadillac,Cadillac_Escalade_Hybrid,Escalade Hybrid,escalade-hybrid,8,5
+200001663,Cadillac,cadillac,Cadillac_Fleetwood,Fleetwood,fleetwood,5,5
+200001663,Cadillac,cadillac,Cadillac_SRX,SRX,srx,5,5
+200001663,Cadillac,cadillac,Cadillac_STS,STS,sts,4,5
+200001663,Cadillac,cadillac,Cadillac_STS_V,STS-V,sts-v,4,5
+200001663,Cadillac,cadillac,Cadillac_Seville,Seville,seville,5,5
+200001663,Cadillac,cadillac,Cadillac_Sixty_Special,Sixty Special,sixty-special,5,5
+200001663,Cadillac,cadillac,Cadillac_XLR,XLR,xlr,5,5
+200001663,Cadillac,cadillac,Cadillac_XLR_V,XLR-V,xlr-v,5,5
+200001663,Cadillac,cadillac,Cadillac_XTS,XTS,xts,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Astro,Astro,astro,8,5
+200000404,Chevrolet,chevrolet,Chevrolet_Astro_Cargo,Astro Cargo,astro-cargo,8,5
+200000404,Chevrolet,chevrolet,Chevrolet_Avalanche,Avalanche,avalanche,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Aveo,Aveo,aveo,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_Beretta,Beretta,beretta,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_Black_Diamond_Avalanche,Black Diamond Avalanche,black-diamond-avalanche,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_Blazer,Blazer,blazer,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_C/K_1500_Series,C/K 1500 Series,ck-1500-series,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_C/K_2500_Series,C/K 2500 Series,ck-2500-series,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_C/K_3500_Series,C/K 3500 Series,ck-3500-series,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_Camaro,Camaro,camaro,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_Caprice,Caprice,caprice,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Captiva_Sport,Captiva Sport,captiva-sport,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Cavalier,Cavalier,cavalier,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Celebrity,Celebrity,celebrity,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Chevy_Van,Chevy Van,chevy-van,8,5
+200000404,Chevrolet,chevrolet,Chevrolet_Chevy_Van_Classic,Chevy Van Classic,chevy-van-classic,8,5
+200000404,Chevrolet,chevrolet,Chevrolet_City_Express,City Express,city-express,8,5
+200000404,Chevrolet,chevrolet,Chevrolet_Classic,Classic,classic,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Cobalt,Cobalt,cobalt,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_Colorado,Colorado,colorado,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_Corsica,Corsica,corsica,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_Corvette,Corvette,corvette,2,5
+200000404,Chevrolet,chevrolet,Chevrolet_Corvette_Stingray,Corvette Stingray,corvette-stingray,2,5
+200000404,Chevrolet,chevrolet,Chevrolet_Cruze,Cruze,cruze,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_Cruze_Limited,Cruze Limited,cruze-limited,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_Equinox,Equinox,equinox,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Express,Express,express,8,5
+200000404,Chevrolet,chevrolet,Chevrolet_Express_Cargo,Express Cargo,express-cargo,8,5
+200000404,Chevrolet,chevrolet,Chevrolet_HHR,HHR,hhr,2,5
+200000404,Chevrolet,chevrolet,Chevrolet_Impala,Impala,impala,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Impala_Limited,Impala Limited,impala-limited,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Lumina,Lumina,lumina,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Lumina_Minivan,Lumina Minivan,lumina-minivan,8,5
+200000404,Chevrolet,chevrolet,Chevrolet_Malibu,Malibu,malibu,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Malibu_Classic,Malibu Classic,malibu-classic,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Malibu_Hybrid,Malibu Hybrid,malibu-hybrid,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Malibu_Limited,Malibu Limited,malibu-limited,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Malibu_Maxx,Malibu Maxx,malibu-maxx,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Metro,Metro,metro,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_Monte_Carlo,Monte Carlo,monte-carlo,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Prizm,Prizm,prizm,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_R/V_3500_Series,R/V 3500 Series,rv-3500-series,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_S_10,S-10,s-10,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_S_10_Blazer,S-10 Blazer,s-10-blazer,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_SS,SS,ss,2,5
+200000404,Chevrolet,chevrolet,Chevrolet_SSR,SSR,ssr,2,5
+200000404,Chevrolet,chevrolet,Chevrolet_Silverado_1500,Silverado 1500,silverado-1500,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Silverado_1500_Classic,Silverado 1500 Classic,silverado-1500-classic,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Silverado_1500_Hybrid,Silverado 1500 Hybrid,silverado-1500-hybrid,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Silverado_1500HD,Silverado 1500HD,silverado-1500hd,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Silverado_1500HD_Classic,Silverado 1500HD Classic,silverado-1500hd-classic,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Silverado_2500,Silverado 2500,silverado-2500,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Silverado_2500HD,Silverado 2500HD,silverado-2500hd,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Silverado_2500HD_Classic,Silverado 2500HD Classic,silverado-2500hd-classic,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Silverado_3500,Silverado 3500,silverado-3500,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Silverado_3500_Classic,Silverado 3500 Classic,silverado-3500-classic,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Silverado_3500HD,Silverado 3500HD,silverado-3500hd,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Sonic,Sonic,sonic,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_Spark,Spark,spark,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_Spark_EV,Spark EV,spark-ev,4,5
+200000404,Chevrolet,chevrolet,Chevrolet_Sportvan,Sportvan,sportvan,8,5
+200000404,Chevrolet,chevrolet,Chevrolet_Suburban,Suburban,suburban,8,5
+200000404,Chevrolet,chevrolet,Chevrolet_Tahoe,Tahoe,tahoe,8,5
+200000404,Chevrolet,chevrolet,Chevrolet_Tahoe_Hybrid,Tahoe Hybrid,tahoe-hybrid,8,5
+200000404,Chevrolet,chevrolet,Chevrolet_Tahoe_Limited/Z71,Tahoe Limited/Z71,tahoe-limitedz71,8,5
+200000404,Chevrolet,chevrolet,Chevrolet_Tracker,Tracker,tracker,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_TrailBlazer,TrailBlazer,trailblazer,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_TrailBlazer_EXT,TrailBlazer EXT,trailblazer-ext,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Traverse,Traverse,traverse,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Trax,Trax,trax,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Uplander,Uplander,uplander,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Venture,Venture,venture,5,5
+200000404,Chevrolet,chevrolet,Chevrolet_Volt,Volt,volt,4,5
+200003644,Chrysler,chrysler,Chrysler_200,200,200,4,5
+200003644,Chrysler,chrysler,Chrysler_300,300,300,4,5
+200003644,Chrysler,chrysler,Chrysler_300M,300M,300m,4,5
+200003644,Chrysler,chrysler,Chrysler_Aspen,Aspen,aspen,4,5
+200003644,Chrysler,chrysler,Chrysler_Cirrus,Cirrus,cirrus,4,5
+200003644,Chrysler,chrysler,Chrysler_Concorde,Concorde,concorde,5,5
+200003644,Chrysler,chrysler,Chrysler_Crossfire,Crossfire,crossfire,2,5
+200003644,Chrysler,chrysler,Chrysler_Grand_Voyager,Grand Voyager,grand-voyager,5,5
+200003644,Chrysler,chrysler,Chrysler_Imperial,Imperial,imperial,5,5
+200003644,Chrysler,chrysler,Chrysler_LHS,LHS,lhs,5,5
+200003644,Chrysler,chrysler,Chrysler_Le_Baron,Le Baron,le-baron,5,5
+200003644,Chrysler,chrysler,Chrysler_New_Yorker,New Yorker,new-yorker,5,5
+200003644,Chrysler,chrysler,Chrysler_PT_Cruiser,PT Cruiser,pt-cruiser,2,5
+200003644,Chrysler,chrysler,Chrysler_Pacifica,Pacifica,pacifica,8,5
+200003644,Chrysler,chrysler,Chrysler_Prowler,Prowler,prowler,2,5
+200003644,Chrysler,chrysler,Chrysler_Sebring,Sebring,sebring,5,5
+200003644,Chrysler,chrysler,Chrysler_TC,TC,tc,5,5
+200003644,Chrysler,chrysler,Chrysler_Town_and_Country,Town and Country,town-and-country,8,5
+200003644,Chrysler,chrysler,Chrysler_Voyager,Voyager,voyager,8,5
+200312185,Daewoo,daewoo,Daewoo_Lanos,Lanos,lanos,4,5
+200312185,Daewoo,daewoo,Daewoo_Leganza,Leganza,leganza,4,5
+200312185,Daewoo,daewoo,Daewoo_Nubira,Nubira,nubira,5,5
+200009788,Dodge,dodge,Dodge_Avenger,Avenger,avenger,4,5
+200009788,Dodge,dodge,Dodge_Caliber,Caliber,caliber,4,5
+200009788,Dodge,dodge,Dodge_Caravan,Caravan,caravan,4,5
+200009788,Dodge,dodge,Dodge_Challenger,Challenger,challenger,4,5
+200009788,Dodge,dodge,Dodge_Charger,Charger,charger,4,5
+200009788,Dodge,dodge,Dodge_Colt,Colt,colt,4,5
+200009788,Dodge,dodge,Dodge_Dakota,Dakota,dakota,4,5
+200009788,Dodge,dodge,Dodge_Dart,Dart,dart,4,5
+200009788,Dodge,dodge,Dodge_Daytona,Daytona,daytona,4,5
+200009788,Dodge,dodge,Dodge_Durango,Durango,durango,4,5
+200009788,Dodge,dodge,Dodge_Dynasty,Dynasty,dynasty,4,5
+200009788,Dodge,dodge,Dodge_Grand_Caravan,Grand Caravan,grand-caravan,4,5
+200009788,Dodge,dodge,Dodge_Intrepid,Intrepid,intrepid,4,5
+200009788,Dodge,dodge,Dodge_Journey,Journey,journey,4,5
+200009788,Dodge,dodge,Dodge_Magnum,Magnum,magnum,4,5
+200009788,Dodge,dodge,Dodge_Monaco,Monaco,monaco,4,5
+200009788,Dodge,dodge,Dodge_Neon,Neon,neon,4,5
+200009788,Dodge,dodge,Dodge_Nitro,Nitro,nitro,4,5
+200009788,Dodge,dodge,Dodge_Omni,Omni,omni,4,5
+200009788,Dodge,dodge,Dodge_RAM_150,RAM 150,ram-150,5,5
+200009788,Dodge,dodge,Dodge_RAM_250,RAM 250,ram-250,5,5
+200009788,Dodge,dodge,Dodge_RAM_350,RAM 350,ram-350,5,5
+200009788,Dodge,dodge,Dodge_Ram_50_Pickup,Ram 50 Pickup,ram-50-pickup,5,5
+200009788,Dodge,dodge,Dodge_Ram_Cargo,Ram Cargo,ram-cargo,8,5
+200009788,Dodge,dodge,Dodge_Ram_Pickup_1500,Ram Pickup 1500,ram-pickup-1500,5,5
+200009788,Dodge,dodge,Dodge_Ram_Pickup_2500,Ram Pickup 2500,ram-pickup-2500,5,5
+200009788,Dodge,dodge,Dodge_Ram_Pickup_3500,Ram Pickup 3500,ram-pickup-3500,5,5
+200009788,Dodge,dodge,Dodge_Ram_Van,Ram Van,ram-van,8,5
+200009788,Dodge,dodge,Dodge_Ram_Wagon,Ram Wagon,ram-wagon,6,5
+200009788,Dodge,dodge,Dodge_Ramcharger,Ramcharger,ramcharger,5,5
+200009788,Dodge,dodge,Dodge_SRT_Viper,SRT Viper,srt-viper,2,5
+200009788,Dodge,dodge,Dodge_Shadow,Shadow,shadow,4,5
+200009788,Dodge,dodge,Dodge_Spirit,Spirit,spirit,4,5
+200009788,Dodge,dodge,Dodge_Sprinter,Sprinter,sprinter,8,5
+200009788,Dodge,dodge,Dodge_Sprinter_Cargo,Sprinter Cargo,sprinter-cargo,8,5
+200009788,Dodge,dodge,Dodge_Stealth,Stealth,stealth,4,5
+200009788,Dodge,dodge,Dodge_Stratus,Stratus,stratus,4,5
+200009788,Dodge,dodge,Dodge_Viper,Viper,viper,2,5
+200347865,Eagle,eagle,Eagle_Premier,Premier,premier,4,5
+200347865,Eagle,eagle,Eagle_Summit,Summit,summit,4,5
+200347865,Eagle,eagle,Eagle_Talon,Talon,talon,5,5
+200347865,Eagle,eagle,Eagle_Vision,Vision,vision,4,5
+200033022,FIAT,fiat,FIAT_500,500,500,4,5
+200033022,FIAT,fiat,FIAT_500L,500L,500l,4,5
+200033022,FIAT,fiat,FIAT_500X,500X,500x,4,5
+200033022,FIAT,fiat,FIAT_500e,500e,500e,4,5
+200006023,Ferrari,ferrari,Ferrari_360,360,360,2,5
+200006023,Ferrari,ferrari,Ferrari_430_Scuderia,430 Scuderia,430-scuderia,2,5
+200006023,Ferrari,ferrari,Ferrari_456M,456M,456m,2,5
+200006023,Ferrari,ferrari,Ferrari_458_Italia,458 Italia,458-italia,2,5
+200006023,Ferrari,ferrari,Ferrari_550,550,550,2,5
+200006023,Ferrari,ferrari,Ferrari_575M,575M,575m,2,5
+200006023,Ferrari,ferrari,Ferrari_599,599,599,2,5
+200006023,Ferrari,ferrari,Ferrari_612_Scaglietti,612 Scaglietti,612-scaglietti,2,5
+200006023,Ferrari,ferrari,Ferrari_California,California,california,2,5
+200006023,Ferrari,ferrari,Ferrari_California_T,California T,california-t,2,5
+200006023,Ferrari,ferrari,Ferrari_Enzo,Enzo,enzo,2,5
+200006023,Ferrari,ferrari,Ferrari_F12_Berlinetta,F12 Berlinetta,f12-berlinetta,2,5
+200006023,Ferrari,ferrari,Ferrari_F430,F430,f430,2,5
+200006023,Ferrari,ferrari,Ferrari_FF,FF,ff,2,5
+200006023,Ferrari,ferrari,Ferrari_Superamerica,Superamerica,superamerica,2,5
+200005745,Fisker,fisker,Fisker_Karma,Karma,karma,4,5
+200005143,Ford,ford,Ford_Aerostar,Aerostar,aerostar,8,5
+200005143,Ford,ford,Ford_Aspire,Aspire,aspire,5,5
+200005143,Ford,ford,Ford_Bronco,Bronco,bronco,4,5
+200005143,Ford,ford,Ford_Bronco_II,Bronco II,bronco-ii,4,5
+200005143,Ford,ford,Ford_C_Max_Energi,C-Max Energi,c-max-energi,4,5
+200005143,Ford,ford,Ford_C_Max_Hybrid,C-Max Hybrid,c-max-hybrid,4,5
+200005143,Ford,ford,Ford_Contour,Contour,contour,5,5
+200005143,Ford,ford,Ford_Contour_SVT,Contour SVT,contour-svt,5,5
+200005143,Ford,ford,Ford_Crown_Victoria,Crown Victoria,crown-victoria,5,5
+200005143,Ford,ford,Ford_E_150,E-150,e-150,5,5
+200005143,Ford,ford,Ford_E_250,E-250,e-250,5,5
+200005143,Ford,ford,Ford_E_350,E-350,e-350,5,5
+200005143,Ford,ford,Ford_E_Series_Van,E-Series Van,e-series-van,8,5
+200005143,Ford,ford,Ford_E_Series_Wagon,E-Series Wagon,e-series-wagon,6,5
+200005143,Ford,ford,Ford_Econoline_Cargo,Econoline Cargo,econoline-cargo,8,5
+200005143,Ford,ford,Ford_Econoline_Wagon,Econoline Wagon,econoline-wagon,6,5
+200005143,Ford,ford,Ford_Edge,Edge,edge,5,5
+200005143,Ford,ford,Ford_Escape,Escape,escape,4,5
+200005143,Ford,ford,Ford_Escape_Hybrid,Escape Hybrid,escape-hybrid,4,5
+200005143,Ford,ford,Ford_Escort,Escort,escort,4,5
+200005143,Ford,ford,Ford_Excursion,Excursion,excursion,4,5
+200005143,Ford,ford,Ford_Expedition,Expedition,expedition,8,5
+200005143,Ford,ford,Ford_Expedition_EL,Expedition EL,expedition-el,8,5
+200005143,Ford,ford,Ford_Explorer,Explorer,explorer,5,5
+200005143,Ford,ford,Ford_Explorer_Sport,Explorer Sport,explorer-sport,5,5
+200005143,Ford,ford,Ford_Explorer_Sport_Trac,Explorer Sport Trac,explorer-sport-trac,5,5
+200005143,Ford,ford,Ford_F_150,F-150,f-150,5,5
+200005143,Ford,ford,Ford_F_150_Heritage,F-150 Heritage,f-150-heritage,5,5
+200005143,Ford,ford,Ford_F_150_SVT_Lightning,F-150 SVT Lightning,f-150-svt-lightning,2,5
+200005143,Ford,ford,Ford_F_250,F-250,f-250,5,5
+200005143,Ford,ford,Ford_F_250_Super_Duty,F-250 Super Duty,f-250-super-duty,5,5
+200005143,Ford,ford,Ford_F_350,F-350,f-350,5,5
+200005143,Ford,ford,Ford_F_350_Super_Duty,F-350 Super Duty,f-350-super-duty,5,5
+200005143,Ford,ford,Ford_F_450_Super_Duty,F-450 Super Duty,f-450-super-duty,5,5
+200005143,Ford,ford,Ford_Festiva,Festiva,festiva,4,5
+200005143,Ford,ford,Ford_Fiesta,Fiesta,fiesta,4,5
+200005143,Ford,ford,Ford_Five_Hundred,Five Hundred,five-hundred,5,5
+200005143,Ford,ford,Ford_Flex,Flex,flex,4,5
+200005143,Ford,ford,Ford_Focus,Focus,focus,4,5
+200005143,Ford,ford,Ford_Focus_RS,Focus RS,focus-rs,4,5
+200005143,Ford,ford,Ford_Focus_ST,Focus ST,focus-st,4,5
+200005143,Ford,ford,Ford_Freestar,Freestar,freestar,4,5
+200005143,Ford,ford,Ford_Freestyle,Freestyle,freestyle,8,5
+200005143,Ford,ford,Ford_Fusion,Fusion,fusion,4,5
+200005143,Ford,ford,Ford_Fusion_Energi,Fusion Energi,fusion-energi,4,5
+200005143,Ford,ford,Ford_Fusion_Hybrid,Fusion Hybrid,fusion-hybrid,4,5
+200005143,Ford,ford,Ford_GT,GT,gt,2,5
+200005143,Ford,ford,Ford_LTD_Crown_Victoria,LTD Crown Victoria,ltd-crown-victoria,5,5
+200005143,Ford,ford,Ford_Mustang,Mustang,mustang,4,5
+200005143,Ford,ford,Ford_Mustang_SVT_Cobra,Mustang SVT Cobra,mustang-svt-cobra,4,5
+200005143,Ford,ford,Ford_Probe,Probe,probe,4,5
+200005143,Ford,ford,Ford_Ranger,Ranger,ranger,4,5
+200005143,Ford,ford,Ford_Shelby_GT350,Shelby GT350,shelby-gt350,4,5
+200005143,Ford,ford,Ford_Shelby_GT500,Shelby GT500,shelby-gt500,4,5
+200005143,Ford,ford,Ford_Taurus,Taurus,taurus,5,5
+200005143,Ford,ford,Ford_Taurus_X,Taurus X,taurus-x,5,5
+200005143,Ford,ford,Ford_Tempo,Tempo,tempo,4,5
+200005143,Ford,ford,Ford_Thunderbird,Thunderbird,thunderbird,4,5
+200005143,Ford,ford,Ford_Transit_Connect,Transit Connect,transit-connect,8,5
+200005143,Ford,ford,Ford_Transit_Van,Transit Van,transit-van,8,5
+200005143,Ford,ford,Ford_Transit_Wagon,Transit Wagon,transit-wagon,6,5
+200005143,Ford,ford,Ford_Windstar,Windstar,windstar,8,5
+200005143,Ford,ford,Ford_Windstar_Cargo,Windstar Cargo,windstar-cargo,8,5
+200007302,GMC,gmc,GMC_Acadia,Acadia,acadia,5,5
+200007302,GMC,gmc,GMC_Canyon,Canyon,canyon,5,5
+200007302,GMC,gmc,GMC_Envoy,Envoy,envoy,8,5
+200007302,GMC,gmc,GMC_Envoy_XL,Envoy XL,envoy-xl,8,5
+200007302,GMC,gmc,GMC_Envoy_XUV,Envoy XUV,envoy-xuv,8,5
+200007302,GMC,gmc,GMC_Jimmy,Jimmy,jimmy,8,5
+200007302,GMC,gmc,GMC_R/V_3500_Series,R/V 3500 Series,rv-3500-series,8,5
+200007302,GMC,gmc,GMC_Rally_Wagon,Rally Wagon,rally-wagon,6,5
+200007302,GMC,gmc,GMC_S_15,S-15,s-15,2,5
+200007302,GMC,gmc,GMC_S_15_Jimmy,S-15 Jimmy,s-15-jimmy,5,5
+200007302,GMC,gmc,GMC_Safari,Safari,safari,8,5
+200007302,GMC,gmc,GMC_Safari_Cargo,Safari Cargo,safari-cargo,8,5
+200007302,GMC,gmc,GMC_Savana,Savana,savana,8,5
+200007302,GMC,gmc,GMC_Savana_Cargo,Savana Cargo,savana-cargo,8,5
+200007302,GMC,gmc,GMC_Sierra_1500,Sierra 1500,sierra-1500,5,5
+200007302,GMC,gmc,GMC_Sierra_1500_Classic,Sierra 1500 Classic,sierra-1500-classic,5,5
+200007302,GMC,gmc,GMC_Sierra_1500_Hybrid,Sierra 1500 Hybrid,sierra-1500-hybrid,5,5
+200007302,GMC,gmc,GMC_Sierra_1500HD,Sierra 1500HD,sierra-1500hd,5,5
+200007302,GMC,gmc,GMC_Sierra_1500HD_Classic,Sierra 1500HD Classic,sierra-1500hd-classic,5,5
+200007302,GMC,gmc,GMC_Sierra_2500,Sierra 2500,sierra-2500,5,5
+200007302,GMC,gmc,GMC_Sierra_2500HD,Sierra 2500HD,sierra-2500hd,5,5
+200007302,GMC,gmc,GMC_Sierra_2500HD_Classic,Sierra 2500HD Classic,sierra-2500hd-classic,5,5
+200007302,GMC,gmc,GMC_Sierra_3500,Sierra 3500,sierra-3500,5,5
+200007302,GMC,gmc,GMC_Sierra_3500_Classic,Sierra 3500 Classic,sierra-3500-classic,5,5
+200007302,GMC,gmc,GMC_Sierra_3500HD,Sierra 3500HD,sierra-3500hd,5,5
+200007302,GMC,gmc,GMC_Sierra_C3,Sierra C3,sierra-c3,5,5
+200007302,GMC,gmc,GMC_Sierra_Classic_1500,Sierra Classic 1500,sierra-classic-1500,5,5
+200007302,GMC,gmc,GMC_Sierra_Classic_2500,Sierra Classic 2500,sierra-classic-2500,5,5
+200007302,GMC,gmc,GMC_Sierra_Classic_3500,Sierra Classic 3500,sierra-classic-3500,5,5
+200007302,GMC,gmc,GMC_Sonoma,Sonoma,sonoma,5,5
+200007302,GMC,gmc,GMC_Suburban,Suburban,suburban,8,5
+200007302,GMC,gmc,GMC_Syclone,Syclone,syclone,2,5
+200007302,GMC,gmc,GMC_Terrain,Terrain,terrain,5,5
+200007302,GMC,gmc,GMC_Typhoon,Typhoon,typhoon,5,5
+200007302,GMC,gmc,GMC_Vandura,Vandura,vandura,8,5
+200007302,GMC,gmc,GMC_Yukon,Yukon,yukon,8,5
+200007302,GMC,gmc,GMC_Yukon_Denali,Yukon Denali,yukon-denali,8,5
+200007302,GMC,gmc,GMC_Yukon_Hybrid,Yukon Hybrid,yukon-hybrid,8,5
+200007302,GMC,gmc,GMC_Yukon_XL,Yukon XL,yukon-xl,8,5
+200347866,Geo,geo,Geo_Metro,Metro,metro,4,5
+200347866,Geo,geo,Geo_Prizm,Prizm,prizm,4,5
+200347866,Geo,geo,Geo_Storm,Storm,storm,4,5
+200347866,Geo,geo,Geo_Tracker,Tracker,tracker,5,5
+200004021,HUMMER,hummer,HUMMER_H1,H1,h1,5,5
+200004021,HUMMER,hummer,HUMMER_H1_Alpha,H1 Alpha,h1-alpha,5,5
+200004021,HUMMER,hummer,HUMMER_H2,H2,h2,5,5
+200004021,HUMMER,hummer,HUMMER_H2_SUT,H2 SUT,h2-sut,5,5
+200004021,HUMMER,hummer,HUMMER_H3,H3,h3,5,5
+200004021,HUMMER,hummer,HUMMER_H3T,H3T,h3t,5,5
+200001444,Honda,honda,Honda_Accord,Accord,accord,4,5
+200001444,Honda,honda,Honda_Accord_Crosstour,Accord Crosstour,accord-crosstour,4,5
+200001444,Honda,honda,Honda_Accord_Hybrid,Accord Hybrid,accord-hybrid,4,5
+200001444,Honda,honda,Honda_Accord_Plug_In_Hybrid,Accord Plug-In Hybrid,accord-plug-in-hybrid,4,5
+200001444,Honda,honda,Honda_CR_V,CR-V,cr-v,4,5
+200001444,Honda,honda,Honda_CR_Z,CR-Z,cr-z,4,5
+200001444,Honda,honda,Honda_Civic,Civic,civic,4,5
+200001444,Honda,honda,Honda_Civic_CRX,Civic CRX,civic-crx,4,5
+200001444,Honda,honda,Honda_Civic_del_Sol,Civic del Sol,civic-del-sol,2,5
+200001444,Honda,honda,Honda_Crosstour,Crosstour,crosstour,5,5
+200001444,Honda,honda,Honda_Element,Element,element,6,5
+200001444,Honda,honda,Honda_Fit,Fit,fit,4,5
+200001444,Honda,honda,Honda_Fit_EV,Fit EV,fit-ev,4,5
+200001444,Honda,honda,Honda_HR_V,HR-V,hr-v,4,5
+200001444,Honda,honda,Honda_Insight,Insight,insight,4,5
+200001444,Honda,honda,Honda_Odyssey,Odyssey,odyssey,8,5
+200001444,Honda,honda,Honda_Passport,Passport,passport,5,5
+200001444,Honda,honda,Honda_Pilot,Pilot,pilot,8,5
+200001444,Honda,honda,Honda_Prelude,Prelude,prelude,4,5
+200001444,Honda,honda,Honda_Ridgeline,Ridgeline,ridgeline,4,5
+200001444,Honda,honda,Honda_S2000,S2000,s2000,2,5
+200001398,Hyundai,hyundai,Hyundai_Accent,Accent,accent,4,5
+200001398,Hyundai,hyundai,Hyundai_Azera,Azera,azera,4,5
+200001398,Hyundai,hyundai,Hyundai_Elantra,Elantra,elantra,4,5
+200001398,Hyundai,hyundai,Hyundai_Elantra_Coupe,Elantra Coupe,elantra-coupe,4,5
+200001398,Hyundai,hyundai,Hyundai_Elantra_GT,Elantra GT,elantra-gt,4,5
+200001398,Hyundai,hyundai,Hyundai_Elantra_Touring,Elantra Touring,elantra-touring,5,5
+200001398,Hyundai,hyundai,Hyundai_Entourage,Entourage,entourage,5,5
+200001398,Hyundai,hyundai,Hyundai_Equus,Equus,equus,5,5
+200001398,Hyundai,hyundai,Hyundai_Excel,Excel,excel,4,5
+200001398,Hyundai,hyundai,Hyundai_Genesis,Genesis,genesis,4,5
+200001398,Hyundai,hyundai,Hyundai_Genesis_Coupe,Genesis Coupe,genesis-coupe,4,5
+200001398,Hyundai,hyundai,Hyundai_Santa_Fe,Santa Fe,santa-fe,5,5
+200001398,Hyundai,hyundai,Hyundai_Santa_Fe_Sport,Santa Fe Sport,santa-fe-sport,5,5
+200001398,Hyundai,hyundai,Hyundai_Scoupe,Scoupe,scoupe,4,5
+200001398,Hyundai,hyundai,Hyundai_Sonata,Sonata,sonata,5,5
+200001398,Hyundai,hyundai,Hyundai_Sonata_Hybrid,Sonata Hybrid,sonata-hybrid,5,5
+200001398,Hyundai,hyundai,Hyundai_Sonata_Plug_In_Hybrid,Sonata Plug-In Hybrid,sonata-plug-in-hybrid,5,5
+200001398,Hyundai,hyundai,Hyundai_Sonata_Plug_in_Hybrid,Sonata Plug-in Hybrid,sonata-plug-in-hybrid,5,5
+200001398,Hyundai,hyundai,Hyundai_Tiburon,Tiburon,tiburon,6,5
+200001398,Hyundai,hyundai,Hyundai_Tucson,Tucson,tucson,5,5
+200001398,Hyundai,hyundai,Hyundai_Veloster,Veloster,veloster,2,5
+200001398,Hyundai,hyundai,Hyundai_Veracruz,Veracruz,veracruz,4,5
+200001398,Hyundai,hyundai,Hyundai_XG300,XG300,xg300,4,5
+200001398,Hyundai,hyundai,Hyundai_XG350,XG350,xg350,4,5
+200000089,Infiniti,infiniti,Infiniti_EX,EX,ex,5,5
+200000089,Infiniti,infiniti,Infiniti_EX35,EX35,ex35,5,5
+200000089,Infiniti,infiniti,Infiniti_FX,FX,fx,5,5
+200000089,Infiniti,infiniti,Infiniti_FX35,FX35,fx35,5,5
+200000089,Infiniti,infiniti,Infiniti_FX45,FX45,fx45,5,5
+200000089,Infiniti,infiniti,Infiniti_FX50,FX50,fx50,5,5
+200000089,Infiniti,infiniti,Infiniti_G_Convertible,G Convertible,g-convertible,4,5
+200000089,Infiniti,infiniti,Infiniti_G_Coupe,G Coupe,g-coupe,4,5
+200000089,Infiniti,infiniti,Infiniti_G_Sedan,G Sedan,g-sedan,5,5
+200000089,Infiniti,infiniti,Infiniti_G20,G20,g20,4,5
+200000089,Infiniti,infiniti,Infiniti_G35,G35,g35,4,5
+200000089,Infiniti,infiniti,Infiniti_G37,G37,g37,4,5
+200000089,Infiniti,infiniti,Infiniti_G37_Convertible,G37 Convertible,g37-convertible,4,5
+200000089,Infiniti,infiniti,Infiniti_G37_Coupe,G37 Coupe,g37-coupe,4,5
+200000089,Infiniti,infiniti,Infiniti_G37_Sedan,G37 Sedan,g37-sedan,5,5
+200000089,Infiniti,infiniti,Infiniti_I30,I30,i30,4,5
+200000089,Infiniti,infiniti,Infiniti_I35,I35,i35,4,5
+200000089,Infiniti,infiniti,Infiniti_J30,J30,j30,4,5
+200000089,Infiniti,infiniti,Infiniti_JX,JX,jx,5,5
+200000089,Infiniti,infiniti,Infiniti_M,M,m,5,5
+200000089,Infiniti,infiniti,Infiniti_M30,M30,m30,5,5
+200000089,Infiniti,infiniti,Infiniti_M35,M35,m35,5,5
+200000089,Infiniti,infiniti,Infiniti_M37,M37,m37,5,5
+200000089,Infiniti,infiniti,Infiniti_M45,M45,m45,5,5
+200000089,Infiniti,infiniti,Infiniti_M56,M56,m56,5,5
+200000089,Infiniti,infiniti,Infiniti_Q40,Q40,q40,5,5
+200000089,Infiniti,infiniti,Infiniti_Q45,Q45,q45,5,5
+200000089,Infiniti,infiniti,Infiniti_Q50,Q50,q50,5,5
+200000089,Infiniti,infiniti,Infiniti_Q60_Convertible,Q60 Convertible,q60-convertible,4,5
+200000089,Infiniti,infiniti,Infiniti_Q60_Coupe,Q60 Coupe,q60-coupe,4,5
+200000089,Infiniti,infiniti,Infiniti_Q70,Q70,q70,5,5
+200000089,Infiniti,infiniti,Infiniti_QX,QX,qx,4,5
+200000089,Infiniti,infiniti,Infiniti_QX4,QX4,qx4,4,5
+200000089,Infiniti,infiniti,Infiniti_QX50,QX50,qx50,5,5
+200000089,Infiniti,infiniti,Infiniti_QX56,QX56,qx56,8,5
+200000089,Infiniti,infiniti,Infiniti_QX60,QX60,qx60,8,5
+200000089,Infiniti,infiniti,Infiniti_QX70,QX70,qx70,8,5
+200000089,Infiniti,infiniti,Infiniti_QX80,QX80,qx80,8,5
+200110731,Isuzu,isuzu,Isuzu_Amigo,Amigo,amigo,4,5
+200110731,Isuzu,isuzu,Isuzu_Ascender,Ascender,ascender,5,5
+200110731,Isuzu,isuzu,Isuzu_Axiom,Axiom,axiom,4,5
+200110731,Isuzu,isuzu,Isuzu_Hombre,Hombre,hombre,5,5
+200110731,Isuzu,isuzu,Isuzu_Impulse,Impulse,impulse,4,5
+200110731,Isuzu,isuzu,Isuzu_Oasis,Oasis,oasis,4,5
+200110731,Isuzu,isuzu,Isuzu_Pickup,Pickup,pickup,2,5
+200110731,Isuzu,isuzu,Isuzu_Rodeo,Rodeo,rodeo,5,5
+200110731,Isuzu,isuzu,Isuzu_Rodeo_Sport,Rodeo Sport,rodeo-sport,5,5
+200110731,Isuzu,isuzu,Isuzu_Stylus,Stylus,stylus,5,5
+200110731,Isuzu,isuzu,Isuzu_Trooper,Trooper,trooper,5,5
+200110731,Isuzu,isuzu,Isuzu_VehiCROSS,VehiCROSS,vehicross,5,5
+200110731,Isuzu,isuzu,Isuzu_i_Series,i-Series,i-series,4,5
+200003196,Jaguar,jaguar,Jaguar_F_TYPE,F-TYPE,f-type,2,5
+200003196,Jaguar,jaguar,Jaguar_S_Type,S-Type,s-type,5,5
+200003196,Jaguar,jaguar,Jaguar_X_Type,X-Type,x-type,5,5
+200003196,Jaguar,jaguar,Jaguar_XF,XF,xf,5,5
+200003196,Jaguar,jaguar,Jaguar_XJ,XJ,xj,5,5
+200003196,Jaguar,jaguar,Jaguar_XJ_Series,XJ-Series,xj-series,5,5
+200003196,Jaguar,jaguar,Jaguar_XJR,XJR,xjr,5,5
+200003196,Jaguar,jaguar,Jaguar_XK,XK,xk,2,5
+200003196,Jaguar,jaguar,Jaguar_XK_Series,XK-Series,xk-series,2,5
+200003196,Jaguar,jaguar,Jaguar_XKR,XKR,xkr,2,5
+200001510,Jeep,jeep,Jeep_Cherokee,Cherokee,cherokee,5,5
+200001510,Jeep,jeep,Jeep_Comanche,Comanche,comanche,5,5
+200001510,Jeep,jeep,Jeep_Commander,Commander,commander,5,5
+200001510,Jeep,jeep,Jeep_Compass,Compass,compass,4,5
+200001510,Jeep,jeep,Jeep_Grand_Cherokee,Grand Cherokee,grand-cherokee,7,5
+200001510,Jeep,jeep,Jeep_Grand_Cherokee_SRT,Grand Cherokee SRT,grand-cherokee-srt,7,5
+200001510,Jeep,jeep,Jeep_Grand_Wagoneer,Grand Wagoneer,grand-wagoneer,8,5
+200001510,Jeep,jeep,Jeep_Liberty,Liberty,liberty,4,5
+200001510,Jeep,jeep,Jeep_Patriot,Patriot,patriot,5,5
+200001510,Jeep,jeep,Jeep_Renegade,Renegade,renegade,4,5
+200001510,Jeep,jeep,Jeep_Wagoneer,Wagoneer,wagoneer,7,5
+200001510,Jeep,jeep,Jeep_Wrangler,Wrangler,wrangler,5,5
+200003063,Kia,kia,Kia_Amanti,Amanti,amanti,5,5
+200003063,Kia,kia,Kia_Borrego,Borrego,borrego,5,5
+200003063,Kia,kia,Kia_Cadenza,Cadenza,cadenza,5,5
+200003063,Kia,kia,Kia_Forte,Forte,forte,5,5
+200003063,Kia,kia,Kia_K900,K900,k900,5,5
+200003063,Kia,kia,Kia_Optima,Optima,optima,5,5
+200003063,Kia,kia,Kia_Optima_Hybrid,Optima Hybrid,optima-hybrid,5,5
+200003063,Kia,kia,Kia_Rio,Rio,rio,5,5
+200003063,Kia,kia,Kia_Rondo,Rondo,rondo,4,5
+200003063,Kia,kia,Kia_Sedona,Sedona,sedona,5,5
+200003063,Kia,kia,Kia_Sephia,Sephia,sephia,4,5
+200003063,Kia,kia,Kia_Sorento,Sorento,sorento,4,5
+200003063,Kia,kia,Kia_Soul,Soul,soul,4,5
+200003063,Kia,kia,Kia_Soul_EV,Soul EV,soul-ev,4,5
+200003063,Kia,kia,Kia_Spectra,Spectra,spectra,4,5
+200003063,Kia,kia,Kia_Sportage,Sportage,sportage,4,5
+200005922,Lamborghini,lamborghini,Lamborghini_Aventador,Aventador,aventador,2,5
+200005922,Lamborghini,lamborghini,Lamborghini_Diablo,Diablo,diablo,2,5
+200005922,Lamborghini,lamborghini,Lamborghini_Gallardo,Gallardo,gallardo,2,5
+200005922,Lamborghini,lamborghini,Lamborghini_Huracan,Huracan,huracan,2,5
+200005922,Lamborghini,lamborghini,Lamborghini_Murcielago,Murcielago,murcielago,2,5
+200005922,Lamborghini,lamborghini,Lamborghini_Reventon,Reventon,reventon,2,5
+200006582,Land Rover,land-rover,Land_Rover_Defender,Defender,defender,5,5
+200006582,Land Rover,land-rover,Land_Rover_Discovery,Discovery,discovery,5,5
+200006582,Land Rover,land-rover,Land_Rover_Discovery_Series_II,Discovery Series II,discovery-series-ii,5,5
+200006582,Land Rover,land-rover,Land_Rover_Discovery_Sport,Discovery Sport,discovery-sport,5,5
+200006582,Land Rover,land-rover,Land_Rover_Freelander,Freelander,freelander,5,5
+200006582,Land Rover,land-rover,Land_Rover_LR2,LR2,lr2,5,5
+200006582,Land Rover,land-rover,Land_Rover_LR3,LR3,lr3,5,5
+200006582,Land Rover,land-rover,Land_Rover_LR4,LR4,lr4,5,5
+200006582,Land Rover,land-rover,Land_Rover_Range_Rover,Range Rover,range-rover,5,5
+200006582,Land Rover,land-rover,Land_Rover_Range_Rover_Evoque,Range Rover Evoque,range-rover-evoque,5,5
+200006582,Land Rover,land-rover,Land_Rover_Range_Rover_Sport,Range Rover Sport,range-rover-sport,5,5
+200001623,Lexus,lexus,Lexus_CT_200h,CT 200h,ct-200h,4,5
+200001623,Lexus,lexus,Lexus_ES_250,ES 250,es-250,4,5
+200001623,Lexus,lexus,Lexus_ES_300,ES 300,es-300,5,5
+200001623,Lexus,lexus,Lexus_ES_300h,ES 300h,es-300h,5,5
+200001623,Lexus,lexus,Lexus_ES_330,ES 330,es-330,5,5
+200001623,Lexus,lexus,Lexus_ES_350,ES 350,es-350,5,5
+200001623,Lexus,lexus,Lexus_GS_200t,GS 200t,gs-200t,5,5
+200001623,Lexus,lexus,Lexus_GS_300,GS 300,gs-300,5,5
+200001623,Lexus,lexus,Lexus_GS_350,GS 350,gs-350,5,5
+200001623,Lexus,lexus,Lexus_GS_400,GS 400,gs-400,5,5
+200001623,Lexus,lexus,Lexus_GS_430,GS 430,gs-430,5,5
+200001623,Lexus,lexus,Lexus_GS_450h,GS 450h,gs-450h,5,5
+200001623,Lexus,lexus,Lexus_GS_460,GS 460,gs-460,5,5
+200001623,Lexus,lexus,Lexus_GS_F,GS F,gs-f,5,5
+200001623,Lexus,lexus,Lexus_GX_460,GX 460,gx-460,8,5
+200001623,Lexus,lexus,Lexus_GX_470,GX 470,gx-470,8,5
+200001623,Lexus,lexus,Lexus_HS_250h,HS 250h,hs-250h,4,5
+200001623,Lexus,lexus,Lexus_IS_200t,IS 200t,is-200t,4,5
+200001623,Lexus,lexus,Lexus_IS_250,IS 250,is-250,4,5
+200001623,Lexus,lexus,Lexus_IS_250_C,IS 250 C,is-250-c,4,5
+200001623,Lexus,lexus,Lexus_IS_300,IS 300,is-300,5,5
+200001623,Lexus,lexus,Lexus_IS_350,IS 350,is-350,5,5
+200001623,Lexus,lexus,Lexus_IS_350_C,IS 350 C,is-350-c,5,5
+200001623,Lexus,lexus,Lexus_IS_F,IS F,is-f,4,5
+200001623,Lexus,lexus,Lexus_LFA,LFA,lfa,2,5
+200001623,Lexus,lexus,Lexus_LS_400,LS 400,ls-400,5,5
+200001623,Lexus,lexus,Lexus_LS_430,LS 430,ls-430,5,5
+200001623,Lexus,lexus,Lexus_LS_460,LS 460,ls-460,5,5
+200001623,Lexus,lexus,Lexus_LS_600h_L,LS 600h L,ls-600h-l,5,5
+200001623,Lexus,lexus,Lexus_LX_450,LX 450,lx-450,8,5
+200001623,Lexus,lexus,Lexus_LX_470,LX 470,lx-470,8,5
+200001623,Lexus,lexus,Lexus_LX_570,LX 570,lx-570,8,5
+200001623,Lexus,lexus,Lexus_NX_200t,NX 200t,nx-200t,4,5
+200001623,Lexus,lexus,Lexus_NX_300h,NX 300h,nx-300h,5,5
+200001623,Lexus,lexus,Lexus_RC_200t,RC 200t,rc-200t,4,5
+200001623,Lexus,lexus,Lexus_RC_300,RC 300,rc-300,5,5
+200001623,Lexus,lexus,Lexus_RC_350,RC 350,rc-350,5,5
+200001623,Lexus,lexus,Lexus_RC_F,RC F,rc-f,4,5
+200001623,Lexus,lexus,Lexus_RX_300,RX 300,rx-300,5,5
+200001623,Lexus,lexus,Lexus_RX_330,RX 330,rx-330,5,5
+200001623,Lexus,lexus,Lexus_RX_350,RX 350,rx-350,5,5
+200001623,Lexus,lexus,Lexus_RX_400h,RX 400h,rx-400h,5,5
+200001623,Lexus,lexus,Lexus_RX_450h,RX 450h,rx-450h,5,5
+200001623,Lexus,lexus,Lexus_SC_300,SC 300,sc-300,4,5
+200001623,Lexus,lexus,Lexus_SC_400,SC 400,sc-400,4,5
+200001623,Lexus,lexus,Lexus_SC_430,SC 430,sc-430,4,5
+200001777,Lincoln,lincoln,Lincoln_Aviator,Aviator,aviator,5,5
+200001777,Lincoln,lincoln,Lincoln_Blackwood,Blackwood,blackwood,5,5
+200001777,Lincoln,lincoln,Lincoln_Continental,Continental,continental,6,5
+200001777,Lincoln,lincoln,Lincoln_LS,LS,ls,5,5
+200001777,Lincoln,lincoln,Lincoln_MKC,MKC,mkc,5,5
+200001777,Lincoln,lincoln,Lincoln_MKS,MKS,mks,5,5
+200001777,Lincoln,lincoln,Lincoln_MKT,MKT,mkt,5,5
+200001777,Lincoln,lincoln,Lincoln_MKX,MKX,mkx,5,5
+200001777,Lincoln,lincoln,Lincoln_MKZ,MKZ,mkz,5,5
+200001777,Lincoln,lincoln,Lincoln_MKZ_Hybrid,MKZ Hybrid,mkz-hybrid,5,5
+200001777,Lincoln,lincoln,Lincoln_Mark_LT,Mark LT,mark-lt,5,5
+200001777,Lincoln,lincoln,Lincoln_Mark_VII,Mark VII,mark-vii,5,5
+200001777,Lincoln,lincoln,Lincoln_Mark_VIII,Mark VIII,mark-viii,5,5
+200001777,Lincoln,lincoln,Lincoln_Navigator,Navigator,navigator,8,5
+200001777,Lincoln,lincoln,Lincoln_Navigator_L,Navigator L,navigator-l,8,5
+200001777,Lincoln,lincoln,Lincoln_Town_Car,Town Car,town-car,6,5
+200001777,Lincoln,lincoln,Lincoln_Zephyr,Zephyr,zephyr,5,5
+200006242,Lotus,lotus,Lotus_Elise,Elise,elise,2,5
+200006242,Lotus,lotus,Lotus_Esprit,Esprit,esprit,2,5
+200006242,Lotus,lotus,Lotus_Evora,Evora,evora,2,5
+200006242,Lotus,lotus,Lotus_Exige,Exige,exige,2,5
+200002305,MINI,mini,MINI_Cooper,Cooper,cooper,4,5
+200002305,MINI,mini,MINI_Cooper_Clubman,Cooper Clubman,cooper-clubman,5,5
+200002305,MINI,mini,MINI_Cooper_Countryman,Cooper Countryman,cooper-countryman,5,5
+200002305,MINI,mini,MINI_Cooper_Coupe,Cooper Coupe,cooper-coupe,2,5
+200002305,MINI,mini,MINI_Cooper_Paceman,Cooper Paceman,cooper-paceman,4,5
+200002305,MINI,mini,MINI_Cooper_Roadster,Cooper Roadster,cooper-roadster,2,5
+200028029,Maserati,maserati,Maserati_Coupe,Coupe,coupe,2,5
+200028029,Maserati,maserati,Maserati_Ghibli,Ghibli,ghibli,2,5
+200028029,Maserati,maserati,Maserati_GranSport,GranSport,gransport,2,5
+200028029,Maserati,maserati,Maserati_GranTurismo,GranTurismo,granturismo,2,5
+200028029,Maserati,maserati,Maserati_GranTurismo_Convertible,GranTurismo Convertible,granturismo-convertible,2,5
+200028029,Maserati,maserati,Maserati_Quattroporte,Quattroporte,quattroporte,2,5
+200028029,Maserati,maserati,Maserati_Spyder,Spyder,spyder,2,5
+200043087,Maybach,maybach,Maybach_57,57,57,5,5
+200043087,Maybach,maybach,Maybach_62,62,62,5,5
+200043087,Maybach,maybach,Maybach_Landaulet,Landaulet,landaulet,5,5
+200004100,Mazda,mazda,Mazda_2,2,2,4,5
+200004100,Mazda,mazda,Mazda_3,3,3,4,5
+200004100,Mazda,mazda,Mazda_323,323,323,4,5
+200004100,Mazda,mazda,Mazda_5,5,5,4,5
+200004100,Mazda,mazda,Mazda_6,6,6,4,5
+200004100,Mazda,mazda,Mazda_626,626,626,4,5
+200004100,Mazda,mazda,Mazda_929,929,929,4,5
+200004100,Mazda,mazda,Mazda_B_Series,B-Series,b-series,4,5
+200004100,Mazda,mazda,Mazda_B_Series_Pickup,B-Series Pickup,b-series-pickup,4,5
+200004100,Mazda,mazda,Mazda_B_Series_Truck,B-Series Truck,b-series-truck,4,5
+200004100,Mazda,mazda,Mazda_CX_3,CX-3,cx-3,4,5
+200004100,Mazda,mazda,Mazda_CX_5,CX-5,cx-5,5,5
+200004100,Mazda,mazda,Mazda_CX_7,CX-7,cx-7,5,5
+200004100,Mazda,mazda,Mazda_CX_9,CX-9,cx-9,8,5
+200004100,Mazda,mazda,Mazda_MPV,MPV,mpv,8,5
+200004100,Mazda,mazda,Mazda_MX_3,MX-3,mx-3,4,5
+200004100,Mazda,mazda,Mazda_MX_5_Miata,MX-5 Miata,mx-5-miata,2,5
+200004100,Mazda,mazda,Mazda_MX_6,MX-6,mx-6,5,5
+200004100,Mazda,mazda,Mazda_Mazdaspeed_3,Mazdaspeed 3,mazdaspeed-3,5,5
+200004100,Mazda,mazda,Mazda_Mazdaspeed_6,Mazdaspeed 6,mazdaspeed-6,5,5
+200004100,Mazda,mazda,Mazda_Mazdaspeed_MX_5_Miata,Mazdaspeed MX-5 Miata,mazdaspeed-mx-5-miata,2,5
+200004100,Mazda,mazda,Mazda_Mazdaspeed_Protege,Mazdaspeed Protege,mazdaspeed-protege,5,5
+200004100,Mazda,mazda,Mazda_Millenia,Millenia,millenia,5,5
+200004100,Mazda,mazda,Mazda_Navajo,Navajo,navajo,5,5
+200004100,Mazda,mazda,Mazda_Protege,Protege,protege,5,5
+200004100,Mazda,mazda,Mazda_Protege5,Protege5,protege5,5,5
+200004100,Mazda,mazda,Mazda_RX_7,RX-7,rx-7,2,5
+200004100,Mazda,mazda,Mazda_RX_8,RX-8,rx-8,2,5
+200004100,Mazda,mazda,Mazda_Tribute,Tribute,tribute,5,5
+200004100,Mazda,mazda,Mazda_Tribute_Hybrid,Tribute Hybrid,tribute-hybrid,5,5
+200004100,Mazda,mazda,Mazda_Truck,Truck,truck,2,5
+200051397,McLaren,mclaren,McLaren_650S_Coupe,650S Coupe,650s-coupe,2,5
+200051397,McLaren,mclaren,McLaren_650S_Spider,650S Spider,650s-spider,2,5
+200051397,McLaren,mclaren,McLaren_MP4_12C,MP4-12C,mp4-12c,2,5
+200051397,McLaren,mclaren,McLaren_MP4_12C_Spider,MP4-12C Spider,mp4-12c-spider,2,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_190_Class,190-Class,190-class,5,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_300_Class,300-Class,300-class,5,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_350_Class,350-Class,350-class,5,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_400_Class,400-Class,400-class,5,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_420_Class,420-Class,420-class,5,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_500_Class,500-Class,500-class,2,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_560_Class,560-Class,560-class,2,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_600_Class,600-Class,600-class,5,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_AMG_GT,AMG GT,amg-gt,2,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_B_Class_Electric_Drive,B-Class Electric Drive,b-class-electric-drive,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_C_Class,C-Class,c-class,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_C36_AMG,C36 AMG,c36-amg,2,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_C43_AMG,C43 AMG,c43-amg,2,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_CL_Class,CL-Class,cl-class,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_CLA_Class,CLA-Class,cla-class,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_CLK_Class,CLK-Class,clk-class,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_CLS_Class,CLS-Class,cls-class,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_E_Class,E-Class,e-class,5,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_E55_AMG,E55 AMG,e55-amg,5,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_G_Class,G-Class,g-class,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_GL_Class,GL-Class,gl-class,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_GLA_Class,GLA-Class,gla-class,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_GLC_Class,GLC-Class,glc-class,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_GLE_Class,GLE-Class,gle-class,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_GLE_Class_Coupe,GLE-Class Coupe,gle-class-coupe,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_GLK_Class,GLK-Class,glk-class,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_M_Class,M-Class,m-class,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_ML55_AMG,ML55 AMG,ml55-amg,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_Maybach,Maybach,maybach,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_Metris,Metris,metris,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_R_Class,R-Class,r-class,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_S_Class,S-Class,s-class,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_SL_Class,SL-Class,sl-class,2,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_SLK_Class,SLK-Class,slk-class,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_SLR_McLaren,SLR McLaren,slr-mclaren,2,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_SLS_AMG,SLS AMG,sls-amg,2,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_SLS_AMG_GT,SLS AMG GT,sls-amg-gt,2,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_SLS_AMG_GT_Final_Edition,SLS AMG GT Final Edition,sls-amg-gt-final-edition,4,5
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_Sprinter,Sprinter,sprinter,4,Car
+200000130,Mercedes-Benz,mercedes-benz,Mercedes_Benz_Sprinter_Worker,Sprinter Worker,sprinter-worker,4,Car
+200007711,Mercury,mercury,Mercury_Capri,Capri,capri,4,Car
+200007711,Mercury,mercury,Mercury_Cougar,Cougar,cougar,4,Car
+200007711,Mercury,mercury,Mercury_Grand_Marquis,Grand Marquis,grand-marquis,4,Car
+200007711,Mercury,mercury,Mercury_Marauder,Marauder,marauder,4,Car
+200007711,Mercury,mercury,Mercury_Mariner,Mariner,mariner,5,SUV
+200007711,Mercury,mercury,Mercury_Mariner_Hybrid,Mariner Hybrid,mariner-hybrid,5,SUV
+200007711,Mercury,mercury,Mercury_Milan,Milan,milan,4,Car
+200007711,Mercury,mercury,Mercury_Milan_Hybrid,Milan Hybrid,milan-hybrid,4,Car
+200007711,Mercury,mercury,Mercury_Montego,Montego,montego,4,Car
+200007711,Mercury,mercury,Mercury_Monterey,Monterey,monterey,4,Car
+200007711,Mercury,mercury,Mercury_Mountaineer,Mountaineer,mountaineer,5,SUV
+200007711,Mercury,mercury,Mercury_Mystique,Mystique,mystique,4,Car
+200007711,Mercury,mercury,Mercury_Sable,Sable,sable,4,Car
+200007711,Mercury,mercury,Mercury_Topaz,Topaz,topaz,4,Car
+200007711,Mercury,mercury,Mercury_Tracer,Tracer,tracer,4,Car
+200007711,Mercury,mercury,Mercury_Villager,Villager,villager,6,Minivan
+200002915,Mitsubishi,mitsubishi,Mitsubishi_3000GT,3000GT,3000gt,4,Car
+200002915,Mitsubishi,mitsubishi,Mitsubishi_Diamante,Diamante,diamante,4,Car
+200002915,Mitsubishi,mitsubishi,Mitsubishi_Eclipse,Eclipse,eclipse,4,Car
+200002915,Mitsubishi,mitsubishi,Mitsubishi_Eclipse_Spyder,Eclipse Spyder,eclipse-spyder,4,Car
+200002915,Mitsubishi,mitsubishi,Mitsubishi_Endeavor,Endeavor,endeavor,5,SUV
+200002915,Mitsubishi,mitsubishi,Mitsubishi_Expo,Expo,expo,4,Car
+200002915,Mitsubishi,mitsubishi,Mitsubishi_Galant,Galant,galant,4,Car
+200002915,Mitsubishi,mitsubishi,Mitsubishi_Lancer,Lancer,lancer,4,Car
+200002915,Mitsubishi,mitsubishi,Mitsubishi_Lancer_Evolution,Lancer Evolution,lancer-evolution,4,Car
+200002915,Mitsubishi,mitsubishi,Mitsubishi_Lancer_Sportback,Lancer Sportback,lancer-sportback,4,Car
+200002915,Mitsubishi,mitsubishi,Mitsubishi_Mighty_Max_Pickup,Mighty Max Pickup,mighty-max-pickup,2,Truck
+200002915,Mitsubishi,mitsubishi,Mitsubishi_Mirage,Mirage,mirage,4,Car
+200002915,Mitsubishi,mitsubishi,Mitsubishi_Montero,Montero,montero,5,SUV
+200002915,Mitsubishi,mitsubishi,Mitsubishi_Montero_Sport,Montero Sport,montero-sport,5,SUV
+200002915,Mitsubishi,mitsubishi,Mitsubishi_Outlander,Outlander,outlander,5,SUV
+200002915,Mitsubishi,mitsubishi,Mitsubishi_Outlander_Sport,Outlander Sport,outlander-sport,5,SUV
+200002915,Mitsubishi,mitsubishi,Mitsubishi_Precis,Precis,precis,4,Car
+200002915,Mitsubishi,mitsubishi,Mitsubishi_Raider,Raider,raider,4,Car
+200002915,Mitsubishi,mitsubishi,Mitsubishi_Sigma,Sigma,sigma,4,Car
+200002915,Mitsubishi,mitsubishi,Mitsubishi_Vanwagon,Vanwagon,vanwagon,5,SUV
+200002915,Mitsubishi,mitsubishi,Mitsubishi_i_MiEV,i-MiEV,i-miev,4,Car
+200000201,Nissan,nissan,Nissan_200SX,200SX,200sx,4,Car
+200000201,Nissan,nissan,Nissan_240SX,240SX,240sx,4,Car
+200000201,Nissan,nissan,Nissan_300ZX,300ZX,300zx,4,Car
+200000201,Nissan,nissan,Nissan_350Z,350Z,350z,4,Car
+200000201,Nissan,nissan,Nissan_370Z,370Z,370z,4,Car
+200000201,Nissan,nissan,Nissan_Altima,Altima,altima,4,Car
+200000201,Nissan,nissan,Nissan_Altima_Hybrid,Altima Hybrid,altima-hybrid,4,Car
+200000201,Nissan,nissan,Nissan_Armada,Armada,armada,5,SUV
+200000201,Nissan,nissan,Nissan_Axxess,Axxess,axxess,6,Minivan
+200000201,Nissan,nissan,Nissan_Cube,Cube,cube,4,Car
+200000201,Nissan,nissan,Nissan_Frontier,Frontier,frontier,4,Car
+200000201,Nissan,nissan,Nissan_GT_R,GT-R,gt-r,4,Car
+200000201,Nissan,nissan,Nissan_Juke,Juke,juke,5,SUV
+200000201,Nissan,nissan,Nissan_Leaf,Leaf,leaf,4,Car
+200000201,Nissan,nissan,Nissan_Maxima,Maxima,maxima,4,Car
+200000201,Nissan,nissan,Nissan_Murano,Murano,murano,4,Car
+200000201,Nissan,nissan,Nissan_Murano_CrossCabriolet,Murano CrossCabriolet,murano-crosscabriolet,4,Car
+200000201,Nissan,nissan,Nissan_NV,NV,nv,6,Van
+200000201,Nissan,nissan,Nissan_NV_Cargo,NV Cargo,nv-cargo,7,Van
+200000201,Nissan,nissan,Nissan_NV_Passenger,NV Passenger,nv-passenger,7,Van
+200000201,Nissan,nissan,Nissan_NV200,NV200,nv200,7,Van
+200000201,Nissan,nissan,Nissan_NX,NX,nx,4,Car
+200000201,Nissan,nissan,Nissan_Pathfinder,Pathfinder,pathfinder,5,SUV
+200000201,Nissan,nissan,Nissan_Pulsar,Pulsar,pulsar,4,Car
+200000201,Nissan,nissan,Nissan_Quest,Quest,quest,7,Minivan
+200000201,Nissan,nissan,Nissan_Rogue,Rogue,rogue,5,SUV
+200000201,Nissan,nissan,Nissan_Rogue_Select,Rogue Select,rogue-select,5,SUV
+200000201,Nissan,nissan,Nissan_Sentra,Sentra,sentra,4,Car
+200000201,Nissan,nissan,Nissan_Stanza,Stanza,stanza,4,Car
+200000201,Nissan,nissan,Nissan_Titan,Titan,titan,4,Tuck
+200000201,Nissan,nissan,Nissan_Titan_XD,Titan XD,titan-xd,4,Tuck
+200000201,Nissan,nissan,Nissan_Truck,Truck,truck,5,SUV
+200000201,Nissan,nissan,Nissan_Van,Van,van,8,Van
+200000201,Nissan,nissan,Nissan_Versa,Versa,versa,4,Car
+200000201,Nissan,nissan,Nissan_Versa_Note,Versa Note,versa-note,4,Car
+200000201,Nissan,nissan,Nissan_Xterra,Xterra,xterra,5,SUV
+200249342,Oldsmobile,oldsmobile,Oldsmobile_Achieva,Achieva,achieva,4,Car
+200249342,Oldsmobile,oldsmobile,Oldsmobile_Alero,Alero,alero,4,Car
+200249342,Oldsmobile,oldsmobile,Oldsmobile_Aurora,Aurora,aurora,4,Car
+200249342,Oldsmobile,oldsmobile,Oldsmobile_Bravada,Bravada,bravada,4,Car
+200249342,Oldsmobile,oldsmobile,Oldsmobile_Ciera,Ciera,ciera,4,Car
+200249342,Oldsmobile,oldsmobile,Oldsmobile_Custom_Cruiser,Custom Cruiser,custom-cruiser,5,Car
+200249342,Oldsmobile,oldsmobile,Oldsmobile_Cutlass,Cutlass,cutlass,4,Car
+200249342,Oldsmobile,oldsmobile,Oldsmobile_Cutlass_Calais,Cutlass Calais,cutlass-calais,4,Car
+200249342,Oldsmobile,oldsmobile,Oldsmobile_Cutlass_Ciera,Cutlass Ciera,cutlass-ciera,4,Car
+200249342,Oldsmobile,oldsmobile,Oldsmobile_Cutlass_Supreme,Cutlass Supreme,cutlass-supreme,4,Car
+200249342,Oldsmobile,oldsmobile,Oldsmobile_Eighty_Eight,Eighty-Eight,eighty-eight,4,Car
+200249342,Oldsmobile,oldsmobile,Oldsmobile_Eighty_Eight_Royale,Eighty-Eight Royale,eighty-eight-royale,4,Car
+200249342,Oldsmobile,oldsmobile,Oldsmobile_Intrigue,Intrigue,intrigue,4,Car
+200249342,Oldsmobile,oldsmobile,Oldsmobile_LSS,LSS,lss,4,Car
+200249342,Oldsmobile,oldsmobile,Oldsmobile_Ninety_Eight,Ninety-Eight,ninety-eight,4,Car
+200249342,Oldsmobile,oldsmobile,Oldsmobile_Regency,Regency,regency,4,Car
+200249342,Oldsmobile,oldsmobile,Oldsmobile_Silhouette,Silhouette,silhouette,6,Minivan
+200249342,Oldsmobile,oldsmobile,Oldsmobile_Toronado,Toronado,toronado,4,Car
+200194838,Panoz,panoz,Panoz_Esperante,Esperante,esperante,2,Car
+200339126,Plymouth,plymouth,Plymouth_Acclaim,Acclaim,acclaim,4,Car
+200339126,Plymouth,plymouth,Plymouth_Breeze,Breeze,breeze,4,Car
+200339126,Plymouth,plymouth,Plymouth_Colt,Colt,colt,4,Car
+200339126,Plymouth,plymouth,Plymouth_Grand_Voyager,Grand Voyager,grand-voyager,7,Minivan
+200339126,Plymouth,plymouth,Plymouth_Horizon,Horizon,horizon,4,Car
+200339126,Plymouth,plymouth,Plymouth_Laser,Laser,laser,4,Car
+200339126,Plymouth,plymouth,Plymouth_Neon,Neon,neon,4,Car
+200339126,Plymouth,plymouth,Plymouth_Prowler,Prowler,prowler,2,Car
+200339126,Plymouth,plymouth,Plymouth_Sundance,Sundance,sundance,4,Car
+200339126,Plymouth,plymouth,Plymouth_Voyager,Voyager,voyager,7,Minivan
+200002634,Pontiac,pontiac,Pontiac_6000,6000,6000,4,Car
+200002634,Pontiac,pontiac,Pontiac_Aztek,Aztek,aztek,5,Car
+200002634,Pontiac,pontiac,Pontiac_Bonneville,Bonneville,bonneville,4,Car
+200002634,Pontiac,pontiac,Pontiac_Firebird,Firebird,firebird,4,Car
+200002634,Pontiac,pontiac,Pontiac_G3,G3,g3,4,Car
+200002634,Pontiac,pontiac,Pontiac_G5,G5,g5,4,Car
+200002634,Pontiac,pontiac,Pontiac_G6,G6,g6,4,Car
+200002634,Pontiac,pontiac,Pontiac_G8,G8,g8,4,Car
+200002634,Pontiac,pontiac,Pontiac_GTO,GTO,gto,4,Car
+200002634,Pontiac,pontiac,Pontiac_Grand_Am,Grand Am,grand-am,4,Car
+200002634,Pontiac,pontiac,Pontiac_Grand_Prix,Grand Prix,grand-prix,4,Car
+200002634,Pontiac,pontiac,Pontiac_Le_Mans,Le Mans,le-mans,4,Car
+200002634,Pontiac,pontiac,Pontiac_Montana,Montana,montana,6,Minivan
+200002634,Pontiac,pontiac,Pontiac_Montana_SV6,Montana SV6,montana-sv6,6,Minivan
+200002634,Pontiac,pontiac,Pontiac_Solstice,Solstice,solstice,4,Car
+200002634,Pontiac,pontiac,Pontiac_Sunbird,Sunbird,sunbird,4,Car
+200002634,Pontiac,pontiac,Pontiac_Sunfire,Sunfire,sunfire,4,Car
+200002634,Pontiac,pontiac,Pontiac_Torrent,Torrent,torrent,5,SUV
+200002634,Pontiac,pontiac,Pontiac_Trans_Sport,Trans Sport,trans-sport,7,Van
+200002634,Pontiac,pontiac,Pontiac_Vibe,Vibe,vibe,5,SUV
+200000886,Porsche,porsche,Porsche_911,911,911,2,Car
+200000886,Porsche,porsche,Porsche_918_Spyder,918 Spyder,918-spyder,2,Car
+200000886,Porsche,porsche,Porsche_928,928,928,4,Car
+200000886,Porsche,porsche,Porsche_944,944,944,4,Car
+200000886,Porsche,porsche,Porsche_968,968,968,4,Car
+200000886,Porsche,porsche,Porsche_Boxster,Boxster,boxster,2,Car
+200000886,Porsche,porsche,Porsche_Carrera_GT,Carrera GT,carrera-gt,2,Car
+200000886,Porsche,porsche,Porsche_Cayenne,Cayenne,cayenne,5,Car
+200000886,Porsche,porsche,Porsche_Cayman,Cayman,cayman,2,Car
+200000886,Porsche,porsche,Porsche_Cayman_S,Cayman S,cayman-s,2,Car
+200000886,Porsche,porsche,Porsche_Macan,Macan,macan,5,Car
+200000886,Porsche,porsche,Porsche_Panamera,Panamera,panamera,4,Car
+200393150,Ram,ram,Ram_1500,1500,1500,4,Truck
+200393150,Ram,ram,Ram_2500,2500,2500,4,Truck
+200393150,Ram,ram,Ram_3500,3500,3500,4,Truck
+200393150,Ram,ram,Ram_C/V_Cargo_Van,C/V Cargo Van,cv-cargo-van,7,Van
+200393150,Ram,ram,Ram_C/V_Tradesman,C/V Tradesman,cv-tradesman,8,Minivan
+200393150,Ram,ram,Ram_CV_Tradesman,CV Tradesman,cv-tradesman,8,Minivan
+200393150,Ram,ram,Ram_Dakota,Dakota,dakota,4,Truck
+200393150,Ram,ram,Ram_Promaster_Cargo_Van,Promaster Cargo Van,promaster-cargo-van,8,Van
+200393150,Ram,ram,Ram_Promaster_City,Promaster City,promaster-city,7,Van
+200393150,Ram,ram,Ram_Promaster_Window_Van,Promaster Window Van,promaster-window-van,8,Van
+200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Corniche,Corniche,corniche,4,Car
+200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Dawn,Dawn,dawn,4,Car
+200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Ghost,Ghost,ghost,4,Car
+200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Ghost_Series_II,Ghost Series II,ghost-series-ii,4,Car
+200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Park_Ward,Park Ward,park-ward,4,Car
+200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Phantom,Phantom,phantom,5,Car
+200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Phantom_Coupe,Phantom Coupe,phantom-coupe,4,Car
+200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Phantom_Drophead_Coupe,Phantom Drophead Coupe,phantom-drophead-coupe,4,Car
+200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Silver_Seraph,Silver Seraph,silver-seraph,5,Car
+200005044,Rolls-Royce,rolls-royce,Rolls_Royce_Wraith,Wraith,wraith,4,Car
+200074504,Saab,saab,Saab_9_2X,9-2X,9-2x,4,SUV
+200074504,Saab,saab,Saab_9_3,3-Sep,3-Sep,4,Car
+200074504,Saab,saab,Saab_9_3_Griffin,9-3 Griffin,9-3-griffin,5,SUV
+200074504,Saab,saab,Saab_9_4X,9-4X,9-4x,5,SUV
+200074504,Saab,saab,Saab_9_5,5-Sep,5-Sep,4,ar
+200074504,Saab,saab,Saab_9_7X,9-7X,9-7x,5,SUV
+200074504,Saab,saab,Saab_900,900,900,4,Car
+200074504,Saab,saab,Saab_9000,9000,9000,4,Car
+200004446,Saturn,saturn,Saturn_Astra,Astra,astra,4,Car
+200004446,Saturn,saturn,Saturn_Aura,Aura,aura,4,Car
+200004446,Saturn,saturn,Saturn_Aura_Hybrid,Aura Hybrid,aura-hybrid,4,Car
+200004446,Saturn,saturn,Saturn_ION,ION,ion,4,Car
+200004446,Saturn,saturn,Saturn_L_Series,L-Series,l-series,4,Car
+200004446,Saturn,saturn,Saturn_L300,L300,l300,4,Car
+200004446,Saturn,saturn,Saturn_Outlook,Outlook,outlook,5,SUV
+200004446,Saturn,saturn,Saturn_Relay,Relay,relay,5,SUV
+200004446,Saturn,saturn,Saturn_S_Series,S-Series,s-series,4,Car
+200004446,Saturn,saturn,Saturn_Sky,Sky,sky,2,Car
+200004446,Saturn,saturn,Saturn_VUE,VUE,vue,5,SUV
+200004446,Saturn,saturn,Saturn_VUE_Hybrid,VUE Hybrid,vue-hybrid,5,SUV
+200006515,Scion,scion,Scion_FR_S,FR-S,fr-s,4,Car
+200006515,Scion,scion,Scion_iA,iA,ia,4,Car
+200006515,Scion,scion,Scion_iM,iM,im,4,Car
+200006515,Scion,scion,Scion_iQ,iQ,iq,2,Car
+200006515,Scion,scion,Scion_tC,tC,tc,4,Car
+200006515,Scion,scion,Scion_xA,xA,xa,4,Car
+200006515,Scion,scion,Scion_xB,xB,xb,4,Car
+200006515,Scion,scion,Scion_xD,xD,xd,5,SUV
+200046567,Spyker,spyker,Spyker_C8,C8,c8,2,Car
+200004491,Subaru,subaru,Subaru_B9_Tribeca,B9 Tribeca,b9-tribeca,5,SUV
+200004491,Subaru,subaru,Subaru_BRZ,BRZ,brz,4,Car
+200004491,Subaru,subaru,Subaru_Baja,Baja,baja,5,Truck
+200004491,Subaru,subaru,Subaru_Crosstrek,Crosstrek,crosstrek,4,Car
+200004491,Subaru,subaru,Subaru_Forester,Forester,forester,5,SUV
+200004491,Subaru,subaru,Subaru_Impreza,Impreza,impreza,4,Car
+200004491,Subaru,subaru,Subaru_Impreza_WRX,Impreza WRX,impreza-wrx,4,Car
+200004491,Subaru,subaru,Subaru_Justy,Justy,justy,4,Car
+200004491,Subaru,subaru,Subaru_Legacy,Legacy,legacy,4,Car
+200004491,Subaru,subaru,Subaru_Loyale,Loyale,loyale,5,Car
+200004491,Subaru,subaru,Subaru_Outback,Outback,outback,7,SUV
+200004491,Subaru,subaru,Subaru_SVX,SVX,svx,4,Car
+200004491,Subaru,subaru,Subaru_Tribeca,Tribeca,tribeca,5,SUV
+200004491,Subaru,subaru,Subaru_WRX,WRX,wrx,4,Car
+200004491,Subaru,subaru,Subaru_XT,XT,xt,4,Car
+200004491,Subaru,subaru,Subaru_XV_Crosstrek,XV Crosstrek,xv-crosstrek,5,SUV
+200001853,Suzuki,suzuki,Suzuki_Aerio,Aerio,aerio,4,Car
+200001853,Suzuki,suzuki,Suzuki_Equator,Equator,equator,4,Car
+200001853,Suzuki,suzuki,Suzuki_Esteem,Esteem,esteem,4,Car
+200001853,Suzuki,suzuki,Suzuki_Forenza,Forenza,forenza,5,SUV
+200001853,Suzuki,suzuki,Suzuki_Grand_Vitara,Grand Vitara,grand-vitara,5,SUV
+200001853,Suzuki,suzuki,Suzuki_Kizashi,Kizashi,kizashi,4,Car
+200001853,Suzuki,suzuki,Suzuki_Reno,Reno,reno,4,Car
+200001853,Suzuki,suzuki,Suzuki_SX4,SX4,sx4,5,SUV
+200001853,Suzuki,suzuki,Suzuki_Samurai,Samurai,samurai,4,Car
+200001853,Suzuki,suzuki,Suzuki_Sidekick,Sidekick,sidekick,4,Car
+200001853,Suzuki,suzuki,Suzuki_Swift,Swift,swift,4,Car
+200001853,Suzuki,suzuki,Suzuki_Verona,Verona,verona,4,Car
+200001853,Suzuki,suzuki,Suzuki_Vitara,Vitara,vitara,5,SUV
+200001853,Suzuki,suzuki,Suzuki_X_90,X-90,x-90,2,Car
+200001853,Suzuki,suzuki,Suzuki_XL_7,XL-7,xl-7,6,SUV
+200001853,Suzuki,suzuki,Suzuki_XL7,XL7,xl7,6,SUV
+200018920,Tesla,tesla,Tesla_Model_S,Model S,model-s,4,Car
+200018920,Tesla,tesla,Tesla_Model_X,Model X,model-x,6,SUV
+200018920,Tesla,tesla,Tesla_Roadster,Roadster,roadster,2,Car
+200003381,Toyota,toyota,Toyota_4Runner,4Runner,4runner,5,SUV
+200003381,Toyota,toyota,Toyota_Avalon,Avalon,avalon,4,Car
+200003381,Toyota,toyota,Toyota_Avalon_Hybrid,Avalon Hybrid,avalon-hybrid,4,Car
+200003381,Toyota,toyota,Toyota_Camry,Camry,camry,5,Car
+200003381,Toyota,toyota,Toyota_Camry_Hybrid,Camry Hybrid,camry-hybrid,5,Car
+200003381,Toyota,toyota,Toyota_Camry_Solara,Camry Solara,camry-solara,4,Car
+200003381,Toyota,toyota,Toyota_Celica,Celica,celica,4,Car
+200003381,Toyota,toyota,Toyota_Corolla,Corolla,corolla,4,Car
+200003381,Toyota,toyota,Toyota_Cressida,Cressida,cressida,4,Car
+200003381,Toyota,toyota,Toyota_ECHO,ECHO,echo,4,Car
+200003381,Toyota,toyota,Toyota_FJ_Cruiser,FJ Cruiser,fj-cruiser,4,SUV
+200003381,Toyota,toyota,Toyota_Highlander,Highlander,highlander,7,SUV
+200003381,Toyota,toyota,Toyota_Highlander_Hybrid,Highlander Hybrid,highlander-hybrid,7,SUV
+200003381,Toyota,toyota,Toyota_Land_Cruiser,Land Cruiser,land-cruiser,5,SUV
+200003381,Toyota,toyota,Toyota_MR2,MR2,mr2,2,Car
+200003381,Toyota,toyota,Toyota_MR2_Spyder,MR2 Spyder,mr2-spyder,2,Car
+200003381,Toyota,toyota,Toyota_Matrix,Matrix,matrix,4,Car
+200003381,Toyota,toyota,Toyota_Mirai,Mirai,mirai,4,Car
+200003381,Toyota,toyota,Toyota_Paseo,Paseo,paseo,4,Car
+200003381,Toyota,toyota,Toyota_Pickup,Pickup,pickup,2,Truck
+200003381,Toyota,toyota,Toyota_Previa,Previa,previa,7,Minivan
+200003381,Toyota,toyota,Toyota_Prius,Prius,prius,4,Car
+200003381,Toyota,toyota,Toyota_Prius_Plug_in,Prius Plug-in,prius-plug-in,4,Car
+200003381,Toyota,toyota,Toyota_Prius_c,Prius c,prius-c,4,Car
+200003381,Toyota,toyota,Toyota_Prius_v,Prius v,prius-v,4,Car
+200003381,Toyota,toyota,Toyota_RAV4,RAV4,rav4,5,SUV
+200003381,Toyota,toyota,Toyota_RAV4_EV,RAV4 EV,rav4-ev,5,SUV
+200003381,Toyota,toyota,Toyota_RAV4_Hybrid,RAV4 Hybrid,rav4-hybrid,5,SUV
+200003381,Toyota,toyota,Toyota_Sequoia,Sequoia,sequoia,8,SUV
+200003381,Toyota,toyota,Toyota_Sienna,Sienna,sienna,7,Minivan
+200003381,Toyota,toyota,Toyota_Supra,Supra,supra,4,Car
+200003381,Toyota,toyota,Toyota_T100,T100,t100,3,Truck
+200003381,Toyota,toyota,Toyota_Tacoma,Tacoma,tacoma,5,Truck
+200003381,Toyota,toyota,Toyota_Tercel,Tercel,tercel,4,Car
+200003381,Toyota,toyota,Toyota_Tundra,Tundra,tundra,5,Truck
+200003381,Toyota,toyota,Toyota_Venza,Venza,venza,7,SUV
+200003381,Toyota,toyota,Toyota_Yaris,Yaris,yaris,5,Car
+200000238,Volkswagen,volkswagen,Volkswagen_Beetle,Beetle,beetle,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_Beetle_Convertible,Beetle Convertible,beetle-convertible,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_CC,CC,cc,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_Cabrio,Cabrio,cabrio,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_Cabriolet,Cabriolet,cabriolet,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_Corrado,Corrado,corrado,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_Eos,Eos,eos,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_EuroVan,EuroVan,eurovan,8,Van
+200000238,Volkswagen,volkswagen,Volkswagen_Fox,Fox,fox,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_GLI,GLI,gli,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_GTI,GTI,gti,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_Golf,Golf,golf,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_Golf_GTI,Golf GTI,golf-gti,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_Golf_R,Golf R,golf-r,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_Golf_SportWagen,Golf SportWagen,golf-sportwagen,5,Car
+200000238,Volkswagen,volkswagen,Volkswagen_Jetta,Jetta,jetta,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_Jetta_GLI,Jetta GLI,jetta-gli,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_Jetta_Hybrid,Jetta Hybrid,jetta-hybrid,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_Jetta_SportWagen,Jetta SportWagen,jetta-sportwagen,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_New_Beetle,New Beetle,new-beetle,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_Passat,Passat,passat,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_Phaeton,Phaeton,phaeton,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_R32,R32,r32,4,Car
+200000238,Volkswagen,volkswagen,Volkswagen_Rabbit,Rabbit,rabbit,6,SUV
+200000238,Volkswagen,volkswagen,Volkswagen_Routan,Routan,routan,7,Minivan
+200000238,Volkswagen,volkswagen,Volkswagen_Tiguan,Tiguan,tiguan,5,SUV
+200000238,Volkswagen,volkswagen,Volkswagen_Touareg,Touareg,touareg,5,SUV
+200000238,Volkswagen,volkswagen,Volkswagen_Touareg_2,Touareg 2,touareg-2,5,SUV
+200000238,Volkswagen,volkswagen,Volkswagen_Vanagon,Vanagon,vanagon,8,Van
+200000238,Volkswagen,volkswagen,Volkswagen_e_Golf,e-Golf,e-golf,4,Car
+200010382,Volvo,volvo,Volvo_240,240,240,5,Car
+200010382,Volvo,volvo,Volvo_740,740,740,5,Car
+200010382,Volvo,volvo,Volvo_760,760,760,5,Car
+200010382,Volvo,volvo,Volvo_780,780,780,5,Car
+200010382,Volvo,volvo,Volvo_850,850,850,5,Car
+200010382,Volvo,volvo,Volvo_940,940,940,5,SUV
+200010382,Volvo,volvo,Volvo_960,960,960,5,SUV
+200010382,Volvo,volvo,Volvo_C30,C30,c30,4,Car
+200010382,Volvo,volvo,Volvo_C70,C70,c70,4,Car
+200010382,Volvo,volvo,Volvo_Coupe,Coupe,coupe,4,Car
+200010382,Volvo,volvo,Volvo_S40,S40,s40,4,Car
+200010382,Volvo,volvo,Volvo_S60,S60,s60,4,Car
+200010382,Volvo,volvo,Volvo_S70,S70,s70,4,Car
+200010382,Volvo,volvo,Volvo_S80,S80,s80,4,Car
+200010382,Volvo,volvo,Volvo_S90,S90,s90,4,Car
+200010382,Volvo,volvo,Volvo_V40,V40,v40,4,Car
+200010382,Volvo,volvo,Volvo_V50,V50,v50,4,Car
+200010382,Volvo,volvo,Volvo_V60,V60,v60,5,SUV
+200010382,Volvo,volvo,Volvo_V60_Cross_Country,V60 Cross Country,v60-cross-country,5,SUV
+200010382,Volvo,volvo,Volvo_V70,V70,v70,5,SUV
+200010382,Volvo,volvo,Volvo_V90,V90,v90,5,SUV
+200010382,Volvo,volvo,Volvo_XC,XC,xc,5,SUV
+200010382,Volvo,volvo,Volvo_XC60,XC60,xc60,5,SUV
+200010382,Volvo,volvo,Volvo_XC70,XC70,xc70,5,SUV
+200010382,Volvo,volvo,Volvo_XC90,XC90,xc90,5,SUV
+200038885,smart,smart,smart_fortwo,fortwo,fortwo,2,Car
